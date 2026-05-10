@@ -1,0 +1,14 @@
+{
+  "generated_at": null,
+  "previous_run": null,
+  "filter": {
+    "min_price": 600,
+    "max_price": 1800,
+    "min_size_m2": 45,
+    "center_lat": 48.1374,
+    "center_lng": 11.5754,
+    "radius_km": 4.0
+  },
+  "stats": {},
+  "listings": []
+}
