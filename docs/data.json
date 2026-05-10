@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T15:09:01.079275+00:00",
-  "previous_run": "2026-05-10T14:42:32.954275+00:00",
+  "generated_at": "2026-05-10T15:18:22.812688+00:00",
+  "previous_run": "2026-05-10T15:09:01.079275+00:00",
   "filter": {
     "min_price": 600,
     "max_price": 1800,
@@ -50,9 +50,9 @@
       "image_url": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eabec59-3387-44b1-8c9c-1790f1f8247e?rule=$_2.AUTO",
       "description": "Es handelt es sich hierbei um ein Tauschangebot. (Anbieter-ID: 444700)\nBiete 2-Zimmer-Wohnung in...",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:03.186393+00:00",
+      "fetched_at": "2026-05-10T15:18:25.066470+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "kleinanzeigen_3404095827",
@@ -68,9 +68,9 @@
       "image_url": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/568e65b3-0221-4e8c-8a3f-3328dcae4582?rule=$_2.AUTO",
       "description": "Hallo liebe Wohnungssuchende!\nBei uns wird ein wundervolles Zimmer in Maxvorstadt frei! Dein...",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:03.187465+00:00",
+      "fetched_at": "2026-05-10T15:18:25.067588+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "kleinanzeigen_3403362559",
@@ -86,9 +86,9 @@
       "image_url": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0ee6e6bb-6530-4f8f-ab3e-11cc56d94125?rule=$_2.AUTO",
       "description": "Es handelt es sich hierbei um ein Tauschangebot. (Anbieter-ID: 19923)\nSchöne gut geschnittene 2...",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:05.106049+00:00",
+      "fetched_at": "2026-05-10T15:18:27.557936+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "kleinanzeigen_3376433776",
@@ -104,9 +104,9 @@
       "image_url": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ee/eeae287b-5db6-471e-9e84-25b8dffae9d5?rule=$_2.AUTO",
       "description": "Es handelt es sich hierbei um ein Tauschangebot. (Anbieter-ID: 433565)\nHey, ich suche fürich und...",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:05.107612+00:00",
+      "fetched_at": "2026-05-10T15:18:27.559540+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "kleinanzeigen_3376433775",
@@ -122,9 +122,9 @@
       "image_url": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1e05dcb3-c5ea-4a93-8eeb-7f9c4ffa21a8?rule=$_2.AUTO",
       "description": "Es handelt es sich hierbei um ein Tauschangebot. (Anbieter-ID: 434472)\nHallo liebe Tauschende! Ich...",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:05.108669+00:00",
+      "fetched_at": "2026-05-10T15:18:27.560639+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "kleinanzeigen_3403258705",
@@ -140,9 +140,9 @@
       "image_url": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/4942610e-1ff5-458f-b661-24e86c32cdf5?rule=$_2.AUTO",
       "description": "Es handelt es sich hierbei um ein Tauschangebot. (Anbieter-ID: 24834)\nIch bin auf der Suche nach...",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:05.110278+00:00",
+      "fetched_at": "2026-05-10T15:18:27.562301+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "kleinanzeigen_3347058428",
@@ -158,9 +158,9 @@
       "image_url": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4e8617d3-d088-4155-8f1c-8527515e490d?rule=$_2.AUTO",
       "description": "Es handelt es sich hierbei um ein Tauschangebot. (Anbieter-ID: 424161)\nIch biete eine...",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:05.112431+00:00",
+      "fetched_at": "2026-05-10T15:18:27.564518+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "kleinanzeigen_3403104566",
@@ -176,9 +176,9 @@
       "image_url": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/32/32a44670-9257-4255-a8fe-d6d24f478fe8?rule=$_2.AUTO",
       "description": "Großes helles Zimmer mit Dachterrasse im Herzen von München -\nUntervermietung in stilvoller 2er-WG...",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:07.395085+00:00",
+      "fetched_at": "2026-05-10T15:18:29.174366+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "kleinanzeigen_3402934648",
@@ -194,9 +194,9 @@
       "image_url": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/1693dc0c-1899-4490-b4bb-b77f477299cf?rule=$_2.AUTO",
       "description": "Zimmer 1: 835€ Kalt 905€ Warm\nZimmer 3: 795€ Kalt 865€ Warm\nZimmer 2: 795€ Kalt 865€ Warm\n\nDie...",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:07.398947+00:00",
+      "fetched_at": "2026-05-10T15:18:29.178292+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "kleinanzeigen_3402585786",
@@ -212,9 +212,9 @@
       "image_url": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d1f5d32f-bcd6-4f22-ba28-ea2b25c64748?rule=$_2.AUTO",
       "description": "Es handelt sich hierbei um ein Tauschangebot.\nSchöne 3 Zimmer Wohnung mit Abstellkammer und kleinen...",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:07.405476+00:00",
+      "fetched_at": "2026-05-10T15:18:29.184931+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "kleinanzeigen_3402494659",
@@ -230,9 +230,9 @@
       "image_url": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d77bba6-46b7-418a-9d98-b19a0cabdc7b?rule=$_2.AUTO",
       "description": "Es handelt es sich hierbei um ein Tauschangebot. (Anbieter-ID: 443661)\nDie Wohnung befindet sich im...",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:10.177890+00:00",
+      "fetched_at": "2026-05-10T15:18:31.374796+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "kleinanzeigen_3389541334",
@@ -248,9 +248,9 @@
       "image_url": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/aa/aa1215e3-be7f-4906-ac7d-69c5b57ab7c0?rule=$_2.AUTO",
       "description": "Es handelt es sich hierbei um ein Tauschangebot. (Anbieter-ID: 83480)\nIch suche eine günstigere u...",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:10.181202+00:00",
+      "fetched_at": "2026-05-10T15:18:31.378216+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "kleinanzeigen_3402492068",
@@ -266,9 +266,9 @@
       "image_url": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a4/a4b3c589-7ef1-4147-a888-09f690564b13?rule=$_2.AUTO",
       "description": "Es handelt es sich hierbei um ein Tauschangebot. (Anbieter-ID: 444204)\nIch biete eine...",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:10.182271+00:00",
+      "fetched_at": "2026-05-10T15:18:31.379325+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "kleinanzeigen_3402492066",
@@ -284,9 +284,9 @@
       "image_url": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/943cddba-b508-4933-a369-7374cdabfe8d?rule=$_2.AUTO",
       "description": "Es handelt es sich hierbei um ein Tauschangebot. (Anbieter-ID: 444208)\nDiese einladende Wohnung in...",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:10.183340+00:00",
+      "fetched_at": "2026-05-10T15:18:31.380432+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "kleinanzeigen_3402492058",
@@ -302,9 +302,9 @@
       "image_url": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02cd4c49-8374-4399-a636-ef163d4a5d5f?rule=$_2.AUTO",
       "description": "Es handelt es sich hierbei um ein Tauschangebot. (Anbieter-ID: 444232)\nModerne 2-Zimmer-Wohnung,...",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:10.183868+00:00",
+      "fetched_at": "2026-05-10T15:18:31.380999+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "kleinanzeigen_3402487565",
@@ -320,9 +320,9 @@
       "image_url": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/18/18edaee8-a5be-45a8-9cec-5ef4d70fbed0?rule=$_2.AUTO",
       "description": "Es handelt es sich hierbei um ein Tauschangebot. (Anbieter-ID: 31712)\nIch biete eine wirklich...",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:10.185484+00:00",
+      "fetched_at": "2026-05-10T15:18:31.382630+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "kleinanzeigen_3401854405",
@@ -338,9 +338,9 @@
       "image_url": null,
       "description": "Schöne Wohnung in der Maxvorstadt. Ich als Hauptmieter biete mein Zimmer für den August 2026 zur...",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:13.056861+00:00",
+      "fetched_at": "2026-05-10T15:18:33.631350+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "kleinanzeigen_3318750801",
@@ -356,9 +356,9 @@
       "image_url": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/61acfa87-c834-4c12-9551-68928ad4be99?rule=$_2.AUTO",
       "description": "Es handelt es sich hierbei um ein Tauschangebot. (Anbieter-ID: 414173)\nAKTUELLE WOHNUNG – 2...",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:13.060662+00:00",
+      "fetched_at": "2026-05-10T15:18:33.635278+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wg_gesucht_12662910",
@@ -374,9 +374,9 @@
       "image_url": "https://img.wg-gesucht.de/media/up/2025/48/cd9599c7782a00569da4d86a0270cc5f1649f40c1555bafe765572aa2691465b_IMG_4862.small.jpg",
       "description": "",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:25.797567+00:00",
+      "fetched_at": "2026-05-10T15:18:43.482233+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wg_gesucht_10580916",
@@ -392,9 +392,9 @@
       "image_url": "https://img.wg-gesucht.de/media/up/2025/36/f39c2d6e33b707ecf2129a49d968454c2abe4a506fe72a36fed863e90a4e9ad5_175733720454494673600454492818.small.JPEG",
       "description": "",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:25.798601+00:00",
+      "fetched_at": "2026-05-10T15:18:43.483282+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wg_gesucht_13417343",
@@ -410,9 +410,9 @@
       "image_url": "https://img.wg-gesucht.de/media/up/2026/17/cb0fcff3e9153ea78ba8b84d2517204cdae667a5aec2deb3848c6a43d7b5cb1f_177754384557294672504557276776.small.JPEG",
       "description": "",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:25.799940+00:00",
+      "fetched_at": "2026-05-10T15:18:43.484652+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wg_gesucht_13460798",
@@ -428,9 +428,9 @@
       "image_url": "https://img.wg-gesucht.de/media/up/2026/18/b2e7b0b225532b7eab3548e1100bdd977e1cccaa87dcb59e30992dfa7014f881_1.small.jpg",
       "description": "",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:25.802225+00:00",
+      "fetched_at": "2026-05-10T15:18:43.487036+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wg_gesucht_13460771",
@@ -446,9 +446,9 @@
       "image_url": "https://img.wg-gesucht.de/media/up/2026/18/ca4dfcf511db52cc838b3385d3a1fa20ab57775cb3d38a1500044987d37917cc_177839786488994671506488922131.small.JPEG",
       "description": "",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:25.803821+00:00",
+      "fetched_at": "2026-05-10T15:18:43.488666+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wg_gesucht_11805625",
@@ -464,9 +464,9 @@
       "image_url": "https://img.wg-gesucht.de/media/up/2025/35/6164c8bba7ac125ef6c3eb7a2f91c811dbb8bb4f05cb6a3e1c89e1e4dff84886_Screenshot_2025_09_05_at_11.51.40.small.png",
       "description": "",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:29.640867+00:00",
+      "fetched_at": "2026-05-10T15:18:46.547334+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wg_gesucht_13457278",
@@ -482,9 +482,9 @@
       "image_url": "https://img.wg-gesucht.de/media/up/2026/18/3862778354172eca25ae44e23bc31d59f1311a8b2d2b7c06e7df5a9c7ab6aaf7_IMG_3583.small.jpeg",
       "description": "",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:29.642816+00:00",
+      "fetched_at": "2026-05-10T15:18:46.549241+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wg_gesucht_13103191",
@@ -500,9 +500,9 @@
       "image_url": "https://img.wg-gesucht.de/media/up/2026/07/cd165ad39cbc533b0acd9ce22aab45fe6a1c370945d2f7cd78a9c060c06df20e_tempImageMDOIyM.small.jpg",
       "description": "",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:29.644098+00:00",
+      "fetched_at": "2026-05-10T15:18:46.550603+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wg_gesucht_13399221",
@@ -518,9 +518,9 @@
       "image_url": "https://img.wg-gesucht.de/media/up/2026/16/19fb68928955e1c70ef2f2b25565187c6aa8d21c6c4b4bf7e3a906590957ad13_IMG_5024.small.jpg",
       "description": "",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:29.645357+00:00",
+      "fetched_at": "2026-05-10T15:18:46.551874+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wg_gesucht_10995623",
@@ -536,9 +536,9 @@
       "image_url": "https://img.wg-gesucht.de/media/up/2024/19/8b9c87ee718774efe436c7ae4e6a76a7653d33cd20f3110c8451d3b703fff753_171517757305294673957305262131.small.JPEG",
       "description": "",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:29.645681+00:00",
+      "fetched_at": "2026-05-10T15:18:46.552208+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wg_gesucht_563673",
@@ -554,9 +554,9 @@
       "image_url": "https://img.wg-gesucht.de/media/up/2016/43/cbcf31eb5636730_2013_12_22_13_07_09.small.jpg",
       "description": "",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:29.645981+00:00",
+      "fetched_at": "2026-05-10T15:18:46.552496+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wg_gesucht_11522170",
@@ -572,9 +572,9 @@
       "image_url": "https://img.wg-gesucht.de/media/up/2026/18/be892b7225c5d306ecb2eba239161e58ae750599e4095e4f997bff9b944b1635_WhatsApp_Image_2026_04_07_at_17.25.37.small.jpeg",
       "description": "",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:34.077327+00:00",
+      "fetched_at": "2026-05-10T15:18:49.992696+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wg_gesucht_10809066",
@@ -590,9 +590,9 @@
       "image_url": "https://img.wg-gesucht.de/media/up/2024/06/b7afc03f76cf24c09d44e226766ca23c7d027a95e3c9ee107b063a34a5224739_19762170747509965972673.small.JPEG",
       "description": "",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:34.077963+00:00",
+      "fetched_at": "2026-05-10T15:18:49.993355+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wg_gesucht_13426187",
@@ -608,9 +608,9 @@
       "image_url": "https://img.wg-gesucht.de/media/up/2026/17/5fe1a9339189df8875fbfc8a56cb23570b1f9988cfdb170fe675a52edf639640_6c08af0ce2809fd0d9d3872d850bcb2ff5d4d5a4fd7aeb932315a237a38547cb_tempImageSgLQR8.sized.small.jpg",
       "description": "",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:34.079260+00:00",
+      "fetched_at": "2026-05-10T15:18:49.994658+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wg_gesucht_5735990",
@@ -626,9 +626,9 @@
       "image_url": "https://img.wg-gesucht.de/media/up/2016/33/a015065157359900_3ac72844_07d5_487b_951f_25297dc581d0.small.jpg",
       "description": "",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:34.079564+00:00",
+      "fetched_at": "2026-05-10T15:18:49.994986+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wg_gesucht_13452587",
@@ -644,9 +644,9 @@
       "image_url": "https://img.wg-gesucht.de/media/up/2026/18/3d812d1492b78354a5fb9791198ef629509596a841f2adf1a289b18907f6efda____________2026_05_08_______10.33.24.small.png",
       "description": "",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:34.079829+00:00",
+      "fetched_at": "2026-05-10T15:18:49.995257+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wg_gesucht_13421770",
@@ -662,9 +662,9 @@
       "image_url": "https://img.wg-gesucht.de/media/up/2026/17/9b0c762d9ad89398551efb98f8153979b0959fd1a16b38cae00e724ed2e5ca21_PXL_20260425_123058506.MP.small.jpg",
       "description": "",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:34.080793+00:00",
+      "fetched_at": "2026-05-10T15:18:49.996239+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wg_gesucht_13448642",
@@ -680,9 +680,9 @@
       "image_url": "https://img.wg-gesucht.de/media/up/2026/18/fb0b3960daabb99473a0519ca9850a10a661807dfeefc9a97bae873fc40986e9_58430a68_685d_489a_852f_2809a18b988f_1_all_2849.small.jpg",
       "description": "",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:34.081114+00:00",
+      "fetched_at": "2026-05-10T15:18:49.996544+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wg_gesucht_13447870",
@@ -698,9 +698,9 @@
       "image_url": "https://img.wg-gesucht.de/media/up/2026/18/a1d1eac6bf4576d88f4047a5884d20a602594c676f2a66f28b18686626cb1afe_177813571521094671211521040471.small.JPEG",
       "description": "",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:37.784872+00:00",
+      "fetched_at": "2026-05-10T15:18:53.552111+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wg_gesucht_10990830",
@@ -716,9 +716,9 @@
       "image_url": "https://img.wg-gesucht.de/media/up/2024/18/4be8b0dde21380b7d3f8ff3b4a18b99ce89f269df74a54da17ed8ac25fc04fba_image1.small.jpeg",
       "description": "",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:37.785868+00:00",
+      "fetched_at": "2026-05-10T15:18:53.553194+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wg_gesucht_13443938",
@@ -734,9 +734,9 @@
       "image_url": "https://img.wg-gesucht.de/media/up/2026/18/1a2fbb5d6dee78963aaa30a8200e2ab5de89bcb12e9b8ac39761fdbb90da2683_177807278734394673558734366803.small.JPEG",
       "description": "",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:37.788106+00:00",
+      "fetched_at": "2026-05-10T15:18:53.555575+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wg_gesucht_13440119",
@@ -752,9 +752,9 @@
       "image_url": "https://img.wg-gesucht.de/media/up/2026/18/5215410450c803dd89e98cf430145b581c6a5e9d9f4ed5969d821c22eaf91e93_1_3_wohnzimmer.small.png",
       "description": "",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:37.788708+00:00",
+      "fetched_at": "2026-05-10T15:18:53.556235+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wg_gesucht_12793582",
@@ -770,9 +770,9 @@
       "image_url": "https://img.wg-gesucht.de/media/up/2025/50/34cc8608dc0e4a2e32973bebaa75aaf486ba4e38b01839efde2ea17df53f89c9_IMG_9507.small.jpeg",
       "description": "",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:37.789017+00:00",
+      "fetched_at": "2026-05-10T15:18:53.556533+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wg_gesucht_12125540",
@@ -788,9 +788,9 @@
       "image_url": "https://www.wg-gesucht.de/img/placeholder/dummy_small.png",
       "description": "",
       "posted_at": null,
-      "fetched_at": "2026-05-10T15:09:50.860581+00:00",
+      "fetched_at": "2026-05-10T15:19:06.554202+00:00",
       "first_seen": "2026-05-10T14:42:32.954275+00:00",
-      "is_new": true
+      "is_new": false
     }
   ]
 }
