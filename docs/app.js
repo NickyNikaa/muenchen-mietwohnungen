@@ -48,8 +48,11 @@ function renderMap(listings) {
     listings.forEach(l => {
         if (l.lat == null || l.lng == null) return;
         const color = l.is_new ? "#16a34a" : "#2563eb";
-        const m = L.circleMarker([l.lat, l.lng], { radius: 7, color, fillColor: color, fillOpacity: 0.7, weight: 2 });
-        m.bindPopup(`<strong>${escapeHtml(l.title || "")}</strong><br>${fmt.eur(l.price)} · ${fmt.m2(l.size_m2)} · ${fmt.rooms(l.rooms)}<br><a href="${l.url}" target="_blank" rel="noopener">öffnen</a>`);
+        const m = L.circleMarker([l.lat, l.lng], {
+            radius: 9, color: "#fff", fillColor: color, fillOpacity: 0.95, weight: 2.5,
+        });
+        const img = l.image_url ? `<img src="${escapeHtml(l.image_url)}" style="width:100%;max-width:240px;height:140px;object-fit:cover;border-radius:4px;margin-bottom:6px"/>` : "";
+        m.bindPopup(`${img}<strong>${escapeHtml(l.title || "")}</strong><br>${fmt.eur(l.price)} · ${fmt.m2(l.size_m2)} · ${fmt.rooms(l.rooms)}<br><a href="${l.url}" target="_blank" rel="noopener">Inserat öffnen ↗</a>`);
         m.on("click", () => highlightCard(l.id));
         m.addTo(state.map);
         state.markers.push(m);
@@ -149,21 +152,42 @@ function populatePlatformFilter(listings) {
     sel.innerHTML = `<option value="">alle</option>` + platforms.map(p => `<option value="${p}">${p}</option>`).join("");
 }
 
+function readFiltersFromForm() {
+    state.filter.search   = document.getElementById("search").value;
+    state.filter.priceMax = document.getElementById("price-max").value ? +document.getElementById("price-max").value : null;
+    state.filter.sizeMin  = document.getElementById("size-min").value  ? +document.getElementById("size-min").value  : null;
+    state.filter.platform = document.getElementById("platform").value;
+    state.filter.sort     = document.getElementById("sort").value;
+    state.filter.onlyNew  = document.getElementById("only-new").checked;
+}
+
+function update() {
+    readFiltersFromForm();
+    const filtered = applyFilters();
+    renderGrid(filtered);
+    renderMap(filtered);
+    document.getElementById("counts").textContent =
+        `${filtered.length} angezeigt · ${state.all.filter(l => l.is_new).length} neu · ${state.all.length} gesamt`;
+}
+
 function attachFilterEvents() {
-    const update = () => {
-        const filtered = applyFilters();
-        renderGrid(filtered);
-        renderMap(filtered);
-        document.getElementById("counts").textContent =
-            `${filtered.length} angezeigt · ${state.all.filter(l => l.is_new).length} neu · ${state.all.length} gesamt`;
-    };
-    document.getElementById("search").addEventListener("input", e => { state.filter.search = e.target.value; update(); });
-    document.getElementById("price-max").addEventListener("input", e => { state.filter.priceMax = e.target.value ? +e.target.value : null; update(); });
-    document.getElementById("size-min").addEventListener("input", e => { state.filter.sizeMin = e.target.value ? +e.target.value : null; update(); });
-    document.getElementById("platform").addEventListener("change", e => { state.filter.platform = e.target.value; update(); });
-    document.getElementById("sort").addEventListener("change", e => { state.filter.sort = e.target.value; update(); });
-    document.getElementById("only-new").addEventListener("change", e => { state.filter.onlyNew = e.target.checked; update(); });
-    return update;
+    // Live-Update bei Auswahl-Änderungen (Selects, Checkbox)
+    ["platform", "sort", "only-new"].forEach(id => {
+        document.getElementById(id).addEventListener("change", update);
+    });
+    // Live-Update mit kurzem Debounce bei Texteingaben — und der Suchen-Button macht's explizit
+    let t;
+    ["search", "price-max", "size-min"].forEach(id => {
+        document.getElementById(id).addEventListener("input", () => {
+            clearTimeout(t);
+            t = setTimeout(update, 250);
+        });
+    });
+    document.getElementById("reset-btn").addEventListener("click", () => {
+        document.getElementById("filter-form").reset();
+        update();
+    });
+    window.applyAndRender = update;
 }
 
 (async function init() {
@@ -173,6 +197,6 @@ function attachFilterEvents() {
     document.getElementById("generated-at").textContent =
         data.generated_at ? `aktualisiert ${fmt.date(data.generated_at)}` : "noch kein Lauf";
     populatePlatformFilter(state.all);
-    const update = attachFilterEvents();
+    attachFilterEvents();
     update();
 })();

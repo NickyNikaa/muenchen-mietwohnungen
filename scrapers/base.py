@@ -41,8 +41,20 @@ class Scraper:
     name: str = "base"
     base_url: str = ""
 
+    use_cloudscraper: bool = False
+
     def __init__(self) -> None:
-        self.session = requests.Session()
+        if self.use_cloudscraper:
+            try:
+                import cloudscraper
+                self.session = cloudscraper.create_scraper(
+                    browser={"browser": "chrome", "platform": "darwin", "mobile": False},
+                    delay=2,
+                )
+            except ImportError:
+                self.session = requests.Session()
+        else:
+            self.session = requests.Session()
         self.session.headers.update(self._default_headers())
 
     def _default_headers(self) -> dict:

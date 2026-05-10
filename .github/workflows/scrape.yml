@@ -2,21 +2,26 @@ name: Scrape Mietwohnungen München
 
 on:
   schedule:
-    # 4x täglich (UTC). Lokal entspricht das ~07/12/17/22 Uhr in München (Sommerzeit) bzw. ~06/11/16/21 (Winter).
+    # 4x täglich (UTC). ~07/12/17/22 München (Sommerzeit) bzw. ~06/11/16/21 (Winter).
     - cron: "0 5,10,15,20 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: scrape
   cancel-in-progress: false
 
 jobs:
-  scrape:
+  scrape-and-deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -44,19 +49,6 @@ jobs:
             git commit -m "scrape: $(date -u +'%Y-%m-%dT%H:%MZ')"
             git push
           fi
-
-  deploy-pages:
-    needs: scrape
-    runs-on: ubuntu-latest
-    permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

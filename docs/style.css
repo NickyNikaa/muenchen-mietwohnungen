@@ -11,6 +11,13 @@ header .meta { font-size: 0.85rem; opacity: 0.8; display: flex; gap: 1rem; }
 .filters input, .filters select { padding: 6px 8px; border: 1px solid #cdd2da; border-radius: 6px; font-size: 0.9rem; background: #fff; }
 .filters input[type="search"] { min-width: 220px; }
 
+.filters .btn-row { display: flex; gap: 0.5rem; align-items: end; }
+.btn { padding: 7px 14px; border-radius: 6px; border: 1px solid transparent; font-size: 0.9rem; font-weight: 500; cursor: pointer; transition: all 0.1s; -webkit-appearance: none; appearance: none; }
+.btn-primary { background: #2563eb; color: #fff; }
+.btn-primary:hover { background: #1d4ed8; }
+.btn-secondary { background: #fff; color: #4b5563; border-color: #cdd2da; }
+.btn-secondary:hover { background: #f3f4f6; }
+
 main { display: grid; grid-template-columns: 380px 1fr; height: calc(100vh - 130px); }
 @media (max-width: 900px) { main { grid-template-columns: 1fr; height: auto; } #map { height: 320px !important; } }
 

@@ -21,6 +21,7 @@ from scrapers.base import Scraper, Listing, parse_float
 class ImmoScoutScraper(Scraper):
     name = "immoscout"
     base_url = "https://www.immobilienscout24.de"
+    use_cloudscraper = True
 
     def _default_headers(self) -> dict:
         h = super()._default_headers()

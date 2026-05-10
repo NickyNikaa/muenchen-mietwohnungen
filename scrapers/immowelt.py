@@ -15,6 +15,7 @@ from scrapers.base import Scraper, Listing, parse_float
 class ImmoweltScraper(Scraper):
     name = "immowelt"
     base_url = "https://www.immowelt.de"
+    use_cloudscraper = True
 
     def fetch(self) -> list[Listing]:
         results: list[Listing] = []
