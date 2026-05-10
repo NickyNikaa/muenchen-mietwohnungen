@@ -27,10 +27,14 @@ main { display: grid; grid-template-columns: 380px 1fr; height: calc(100vh - 130
 .card { background: #fff; border-radius: 10px; overflow: hidden; box-shadow: 0 1px 2px rgba(0,0,0,0.06); border: 1px solid #e3e6ea; display: flex; flex-direction: column; transition: transform 0.1s; cursor: pointer; }
 .card:hover { transform: translateY(-2px); box-shadow: 0 4px 14px rgba(0,0,0,0.12); }
 .card.new { border-color: #16a34a; box-shadow: 0 0 0 2px #16a34a33; }
+.card.tausch { border-color: #f97316; box-shadow: 0 0 0 2px #f9731633; }
+.card.tausch.new { border-color: #f97316; box-shadow: 0 0 0 2px #f9731644; }
 
 .card .img-wrap { height: 160px; background: #e3e6ea center/cover no-repeat; position: relative; }
 .card .img-wrap.placeholder::after { content: "kein Bild"; position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; color: #9ca3af; font-size: 0.85rem; }
-.card .badge { position: absolute; top: 8px; left: 8px; background: #16a34a; color: #fff; font-size: 0.7rem; padding: 2px 6px; border-radius: 4px; font-weight: 600; }
+.card .badges { position: absolute; top: 8px; left: 8px; display: flex; gap: 4px; }
+.card .badge { background: #16a34a; color: #fff; font-size: 0.7rem; padding: 2px 6px; border-radius: 4px; font-weight: 600; }
+.card .badge.tausch { background: #f97316; }
 .card .platform { position: absolute; top: 8px; right: 8px; background: rgba(28,31,35,0.85); color: #fff; font-size: 0.65rem; padding: 2px 6px; border-radius: 4px; }
 
 .card .body { padding: 0.7rem 0.85rem; display: flex; flex-direction: column; gap: 0.4rem; flex: 1; }

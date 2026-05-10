@@ -3,7 +3,7 @@
 
 const state = {
     all: [],
-    filter: { search: "", priceMax: null, sizeMin: null, platform: "", onlyNew: false, sort: "new" },
+    filter: { search: "", priceMax: null, sizeMin: null, platform: "", category: "miete", onlyNew: false, sort: "new" },
     map: null,
     markers: [],
 };
@@ -47,7 +47,7 @@ function renderMap(listings) {
     state.markers = [];
     listings.forEach(l => {
         if (l.lat == null || l.lng == null) return;
-        const color = l.is_new ? "#16a34a" : "#2563eb";
+        const color = l.is_tausch ? "#f97316" : (l.is_new ? "#16a34a" : "#2563eb");
         const m = L.circleMarker([l.lat, l.lng], {
             radius: 9, color: "#fff", fillColor: color, fillOpacity: 0.95, weight: 2.5,
         });
@@ -69,6 +69,8 @@ function applyFilters() {
         if (f.priceMax != null && l.price != null && l.price > f.priceMax) return false;
         if (f.sizeMin != null && l.size_m2 != null && l.size_m2 < f.sizeMin) return false;
         if (f.platform && l.platform !== f.platform) return false;
+        if (f.category === "miete" && l.is_tausch) return false;
+        if (f.category === "tausch" && !l.is_tausch) return false;
         if (f.onlyNew && !l.is_new) return false;
         if (f.search) {
             const hay = (l.title + " " + (l.address || "") + " " + (l.description || "")).toLowerCase();
@@ -95,13 +97,16 @@ function applyFilters() {
 function renderGrid(listings) {
     const grid = document.getElementById("grid");
     if (listings.length === 0) {
-        grid.innerHTML = `<div class="empty">Keine Treffer mit aktuellen Filtern.</div>`;
+        grid.innerHTML = `<div class="empty">Keine Treffer mit aktuellen Filtern.<br><small>Tipp: bei Kategorie „nur Miete" könnten Tauschwohnungen ausgeblendet sein.</small></div>`;
         return;
     }
     grid.innerHTML = listings.map(l => `
-        <article class="card ${l.is_new ? "new" : ""}" data-id="${escapeHtml(l.id)}" data-lat="${l.lat ?? ""}" data-lng="${l.lng ?? ""}">
+        <article class="card ${l.is_new ? "new" : ""} ${l.is_tausch ? "tausch" : ""}" data-id="${escapeHtml(l.id)}" data-lat="${l.lat ?? ""}" data-lng="${l.lng ?? ""}">
             <div class="img-wrap ${l.image_url ? "" : "placeholder"}" style="${l.image_url ? `background-image:url('${escapeHtml(l.image_url)}')` : ""}">
-                ${l.is_new ? '<span class="badge">NEU</span>' : ""}
+                <div class="badges">
+                    ${l.is_new ? '<span class="badge">NEU</span>' : ""}
+                    ${l.is_tausch ? '<span class="badge tausch">TAUSCH</span>' : ""}
+                </div>
                 <span class="platform">${escapeHtml(l.platform)}</span>
             </div>
             <div class="body">
@@ -157,6 +162,7 @@ function readFiltersFromForm() {
     state.filter.priceMax = document.getElementById("price-max").value ? +document.getElementById("price-max").value : null;
     state.filter.sizeMin  = document.getElementById("size-min").value  ? +document.getElementById("size-min").value  : null;
     state.filter.platform = document.getElementById("platform").value;
+    state.filter.category = document.getElementById("category").value;
     state.filter.sort     = document.getElementById("sort").value;
     state.filter.onlyNew  = document.getElementById("only-new").checked;
 }
@@ -172,7 +178,7 @@ function update() {
 
 function attachFilterEvents() {
     // Live-Update bei Auswahl-Änderungen (Selects, Checkbox)
-    ["platform", "sort", "only-new"].forEach(id => {
+    ["platform", "category", "sort", "only-new"].forEach(id => {
         document.getElementById(id).addEventListener("change", update);
     });
     // Live-Update mit kurzem Debounce bei Texteingaben — und der Suchen-Button macht's explizit

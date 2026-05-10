@@ -45,6 +45,14 @@ def passes_filter(listing: Listing) -> bool:
     return True
 
 
+TAUSCH_PATTERNS = ("tauschwohnung", "tausche ", "biete tausch", "tauschangebot", "wohnungstausch", "tausch gegen", "zum tausch")
+
+
+def is_tausch_listing(listing: Listing) -> bool:
+    haystack = f"{listing.title or ''} {listing.description or ''}".lower()
+    return any(p in haystack for p in TAUSCH_PATTERNS)
+
+
 def in_radius(listing: Listing) -> bool:
     if listing.lat is None or listing.lng is None:
         return config.KEEP_WITHOUT_COORDS
@@ -117,6 +125,8 @@ def main() -> int:
         d = listing.to_dict()
         d["first_seen"] = first_seen[listing.id]
         d["is_new"] = (previous_run is None) or (first_seen[listing.id] >= previous_run)
+        d["is_tausch"] = is_tausch_listing(listing)
+        d["category"] = "tausch" if d["is_tausch"] else "miete"
         output.append(d)
 
     # Sortierung: neu zuerst, dann nach first_seen desc
