@@ -330,5 +330,37 @@
   "maistrasse": {
     "lat": 48.130052,
     "lng": 11.5625409
+  },
+  "80339 schwanthalerhöhe": {
+    "lat": 48.1360154,
+    "lng": 11.5382238
+  },
+  "81241 pasing-​obermenzing": {
+    "lat": 48.1407765,
+    "lng": 11.4665344
+  },
+  "81829 trudering-​riem": {
+    "lat": 48.13376,
+    "lng": 11.6883718
+  },
+  "80336 sendling": {
+    "lat": 48.1240386,
+    "lng": 11.5491076
+  },
+  "81377 sendling-​westpark": {
+    "lat": 48.1330104,
+    "lng": 11.5314435
+  },
+  "eintrachtstr. 6": {
+    "lat": 48.1162809,
+    "lng": 11.5908023
+  },
+  "knorrstr. 45": {
+    "lat": 48.182918,
+    "lng": 11.5727311
+  },
+  "waldwiesenstraße": {
+    "lat": 48.1158993,
+    "lng": 11.4772875
   }
 }
