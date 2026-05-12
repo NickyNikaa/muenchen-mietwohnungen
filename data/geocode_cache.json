@@ -394,5 +394,42 @@
   "balanstraße 170": {
     "lat": 48.1077416,
     "lng": 11.60377
+  },
+  "81476 thalk.obersendl.-​forsten-​fürstenr.-​solln": null,
+  "80469 isarvorstadt": {
+    "lat": 48.1266159,
+    "lng": 11.5705427
+  },
+  "80797 maxvorstadt": {
+    "lat": 48.1490716,
+    "lng": 11.5674463
+  },
+  "80333 maxvorstadt": {
+    "lat": 48.1452001,
+    "lng": 11.5687275
+  },
+  "80337 sendling": {
+    "lat": 48.1215656,
+    "lng": 11.5529728
+  },
+  "80804 schwabing-​west": {
+    "lat": 48.1581363,
+    "lng": 11.5563051
+  },
+  "81549 obergiesing": {
+    "lat": 48.0978483,
+    "lng": 11.6012227
+  },
+  "80992 moosach": {
+    "lat": 48.1748824,
+    "lng": 11.5179798
+  },
+  "landshuter allee": {
+    "lat": 48.1545442,
+    "lng": 11.5371389
+  },
+  "plinganserstrasse": {
+    "lat": 48.1122009,
+    "lng": 11.5394312
   }
 }
