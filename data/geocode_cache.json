@@ -431,5 +431,66 @@
   "plinganserstrasse": {
     "lat": 48.1122009,
     "lng": 11.5394312
+  },
+  "80805 schwabing-​freimann": {
+    "lat": 48.1719894,
+    "lng": 11.6031233
+  },
+  "80993 moosach": {
+    "lat": 48.1865044,
+    "lng": 11.5192167
+  },
+  "81475 thalk.obersendl.-​forsten-​fürstenr.-​solln": null,
+  "80803 schwabing-​west": {
+    "lat": 48.1581363,
+    "lng": 11.5563051
+  },
+  "81247 allach-​untermenzing": {
+    "lat": 48.1900336,
+    "lng": 11.4681053
+  },
+  "80686 laim": {
+    "lat": 48.1320644,
+    "lng": 11.5122018
+  },
+  "80937 milbertshofen -​ am hart": {
+    "lat": 48.2106484,
+    "lng": 11.5751293
+  },
+  "80796 schwabing-​west": {
+    "lat": 48.1581363,
+    "lng": 11.5563051
+  },
+  "81825 trudering-​riem": {
+    "lat": 48.1186736,
+    "lng": 11.6609449
+  },
+  "81379 obersendling": {
+    "lat": 48.1025145,
+    "lng": 11.51952
+  },
+  "burghausener straße 6": {
+    "lat": 48.1465302,
+    "lng": 11.5300911
+  },
+  "horemansstraße": {
+    "lat": 48.1532956,
+    "lng": 11.5387286
+  },
+  "obere bahnhofstr": {
+    "lat": 47.9437422,
+    "lng": 11.788863
+  },
+  "müllerstraße 50": {
+    "lat": 48.1316166,
+    "lng": 11.5680299
+  },
+  "thalkirchner straße 200": {
+    "lat": 48.1123257,
+    "lng": 11.5483522
+  },
+  "jahnstraße 44a": {
+    "lat": 48.1275588,
+    "lng": 11.5685415
   }
 }
