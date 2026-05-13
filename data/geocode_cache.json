@@ -532,5 +532,33 @@
   "haidelweg": {
     "lat": 48.1388576,
     "lng": 11.4579123
+  },
+  "80933 feldmoching": {
+    "lat": 48.2161009,
+    "lng": 11.5562129
+  },
+  "griegstraße": {
+    "lat": 48.1819678,
+    "lng": 11.5827265
+  },
+  "georgenstraße 126": {
+    "lat": 48.1569656,
+    "lng": 11.5646361
+  },
+  "longinusstrasse 16": {
+    "lat": 48.1666615,
+    "lng": 11.4606768
+  },
+  "gollierstraße": {
+    "lat": 48.1357719,
+    "lng": 11.5387536
+  },
+  "traunseestr.": {
+    "lat": 48.144495,
+    "lng": 11.4776079
+  },
+  "ehrengutstraße": {
+    "lat": 48.1212785,
+    "lng": 11.5591493
   }
 }
