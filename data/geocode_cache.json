@@ -492,5 +492,45 @@
   "jahnstraße 44a": {
     "lat": 48.1275588,
     "lng": 11.5685415
+  },
+  "80469 altstadt-​lehel": {
+    "lat": 48.138404,
+    "lng": 11.58247
+  },
+  "81248 aubing-​lochhausen-​langwied": {
+    "lat": 48.1482829,
+    "lng": 11.4031397
+  },
+  "81929 bogenhausen": {
+    "lat": 48.1606968,
+    "lng": 11.6640641
+  },
+  "80639 neuhausen": {
+    "lat": 48.1506861,
+    "lng": 11.509181
+  },
+  "80799 maxvorstadt": {
+    "lat": 48.152339,
+    "lng": 11.5750266
+  },
+  "80807 schwabing-​freimann": {
+    "lat": 48.2187901,
+    "lng": 11.6236227
+  },
+  "donnersbergerstraße 50": {
+    "lat": 48.1470653,
+    "lng": 11.5350171
+  },
+  "häberlstraße 16": {
+    "lat": 48.1277568,
+    "lng": 11.5581866
+  },
+  "schwanseestr.": {
+    "lat": 48.1029668,
+    "lng": 11.5967005
+  },
+  "haidelweg": {
+    "lat": 48.1388576,
+    "lng": 11.4579123
   }
 }
