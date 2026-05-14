@@ -560,5 +560,25 @@
   "ehrengutstraße": {
     "lat": 48.1212785,
     "lng": 11.5591493
+  },
+  "80634 neuhausen": {
+    "lat": 48.1492998,
+    "lng": 11.5296141
+  },
+  "81925 bogenhausen": {
+    "lat": 48.1621983,
+    "lng": 11.622308
+  },
+  "cincinnatistr. 34": {
+    "lat": 48.090693,
+    "lng": 11.5936015
+  },
+  "gabelsbergerstrasse": {
+    "lat": 48.1472447,
+    "lng": 11.5692985
+  },
+  "hohenzollernstraße": {
+    "lat": 48.1598517,
+    "lng": 11.5816502
   }
 }
