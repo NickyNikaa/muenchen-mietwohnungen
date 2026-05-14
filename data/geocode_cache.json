@@ -580,5 +580,29 @@
   "hohenzollernstraße": {
     "lat": 48.1598517,
     "lng": 11.5816502
+  },
+  "81369 sendling-​westpark": {
+    "lat": 48.1106339,
+    "lng": 11.5311797
+  },
+  "schlüsselbergstrasse": {
+    "lat": 48.1250869,
+    "lng": 11.6213782
+  },
+  "cincinnatistraße 34": {
+    "lat": 48.090693,
+    "lng": 11.5936015
+  },
+  "schlüsselbergstraße 8": {
+    "lat": 48.1291896,
+    "lng": 11.6213908
+  },
+  "albert-schweitzer-straße 63": {
+    "lat": 48.1071764,
+    "lng": 11.6469718
+  },
+  "wackersbergerstraße 58": {
+    "lat": 48.1160073,
+    "lng": 11.5432537
   }
 }
