@@ -620,5 +620,21 @@
   "werner-egk-bogen": {
     "lat": 48.207199,
     "lng": 11.600772
+  },
+  "81673 berg-​am-​laim": {
+    "lat": 48.128167,
+    "lng": 11.6315296
+  },
+  "hirschbergstraße xx": {
+    "lat": 48.1489611,
+    "lng": 11.5350469
+  },
+  "schwanthalerstraße 85": {
+    "lat": 48.1373877,
+    "lng": 11.5534403
+  },
+  "eichendorffplatz": {
+    "lat": 48.1135297,
+    "lng": 11.5239666
   }
 }
