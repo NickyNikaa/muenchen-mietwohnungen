@@ -604,5 +604,21 @@
   "wackersbergerstraße 58": {
     "lat": 48.1160073,
     "lng": 11.5432537
+  },
+  "81377 hadern": {
+    "lat": 48.1101976,
+    "lng": 11.493423
+  },
+  "81543 untergiesing-​harlaching": {
+    "lat": 48.0962811,
+    "lng": 11.5541969
+  },
+  "sandstraße 41": {
+    "lat": 48.1501662,
+    "lng": 11.5569602
+  },
+  "werner-egk-bogen": {
+    "lat": 48.207199,
+    "lng": 11.600772
   }
 }
