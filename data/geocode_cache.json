@@ -705,5 +705,13 @@
   "gustav-heinemann-ring": {
     "lat": 48.088924,
     "lng": 11.6429423
+  },
+  "schwanthalerstraße": {
+    "lat": 48.1377955,
+    "lng": 11.5431235
+  },
+  "bajuwarenstraße": {
+    "lat": 48.1216908,
+    "lng": 11.665029
   }
 }
