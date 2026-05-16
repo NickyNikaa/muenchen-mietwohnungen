@@ -677,5 +677,33 @@
   "klugstraße": {
     "lat": 48.165026,
     "lng": 11.5343771
+  },
+  "80337 ludwigsvorstadt-​isarvorstadt": {
+    "lat": 48.1263835,
+    "lng": 11.5583077
+  },
+  "80337 isarvorstadt": {
+    "lat": 48.1263835,
+    "lng": 11.5583077
+  },
+  "81671 berg-​am-​laim": {
+    "lat": 48.1218949,
+    "lng": 11.6182129
+  },
+  "81549 ramersdorf-​perlach": {
+    "lat": 48.0888217,
+    "lng": 11.6450199
+  },
+  "sailerstraße": {
+    "lat": 48.174086,
+    "lng": 11.5634844
+  },
+  "karwinskistraße 114": {
+    "lat": 48.1685193,
+    "lng": 11.4610433
+  },
+  "gustav-heinemann-ring": {
+    "lat": 48.088924,
+    "lng": 11.6429423
   }
 }
