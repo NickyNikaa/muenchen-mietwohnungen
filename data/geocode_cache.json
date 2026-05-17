@@ -721,5 +721,25 @@
   "81543 au-​haidhausen": {
     "lat": 48.1277214,
     "lng": 11.6055187
+  },
+  "sandstraße": {
+    "lat": 48.1493551,
+    "lng": 11.5566174
+  },
+  "sudetenstrasse 7": {
+    "lat": 48.121676,
+    "lng": 11.4306615
+  },
+  "bad-berneck-straße": {
+    "lat": 48.0890472,
+    "lng": 11.6128303
+  },
+  "gottfried-keller straße": {
+    "lat": 48.1505676,
+    "lng": 11.4631453
+  },
+  "dewetstraße": {
+    "lat": 48.1794018,
+    "lng": 11.5719384
   }
 }
