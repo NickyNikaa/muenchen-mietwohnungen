@@ -761,5 +761,33 @@
   "l": {
     "lat": 48.178851,
     "lng": 11.5524482
+  },
+  "81375 hadern": {
+    "lat": 48.1188977,
+    "lng": 11.4851782
+  },
+  "80538 münchen/​lehel": {
+    "lat": 48.1448636,
+    "lng": 11.5910718
+  },
+  "lindenschmitstr. xx": {
+    "lat": 48.118345,
+    "lng": 11.544455
+  },
+  "fürstenriederstraße": {
+    "lat": 48.1344089,
+    "lng": 11.5030209
+  },
+  "gottfried-keller-straße": {
+    "lat": 48.1505676,
+    "lng": 11.4631453
+  },
+  "euckenstraße": {
+    "lat": 48.1145212,
+    "lng": 11.5313077
+  },
+  "baierbrunner straße 83": {
+    "lat": 48.0920402,
+    "lng": 11.5312678
   }
 }
