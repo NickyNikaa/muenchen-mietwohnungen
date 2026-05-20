@@ -793,5 +793,25 @@
   "81539 untergiesing-​harlaching": {
     "lat": 48.0962812,
     "lng": 11.5541969
+  },
+  "80636 nymphenburg": {
+    "lat": 48.1510478,
+    "lng": 11.5436959
+  },
+  "80637 moosach": {
+    "lat": 48.1768926,
+    "lng": 11.5325626
+  },
+  "schraudolphstraße": {
+    "lat": 48.1529184,
+    "lng": 11.5728926
+  },
+  "gmunder straße": {
+    "lat": 48.0973934,
+    "lng": 11.5270224
+  },
+  "auerfeldstr. 007": {
+    "lat": 48.1235894,
+    "lng": 11.5916217
   }
 }
