@@ -813,5 +813,21 @@
   "auerfeldstr. 007": {
     "lat": 48.1235894,
     "lng": 11.5916217
+  },
+  "80803 schwabing-​freimann": {
+    "lat": 48.1644846,
+    "lng": 11.5802458
+  },
+  "burgunderstraße 7": {
+    "lat": 48.1718495,
+    "lng": 11.5661407
+  },
+  "häberlstraße": {
+    "lat": 48.129317,
+    "lng": 11.5584145
+  },
+  "artilleriestraße 16": {
+    "lat": 48.157424,
+    "lng": 11.5395678
   }
 }
