@@ -829,5 +829,21 @@
   "artilleriestraße 16": {
     "lat": 48.157424,
     "lng": 11.5395678
+  },
+  "lothringerstraße": {
+    "lat": 48.1268114,
+    "lng": 11.5987038
+  },
+  "schmied-kochel-straße 10": {
+    "lat": 48.1221769,
+    "lng": 11.5467243
+  },
+  "hölderlinstraße": {
+    "lat": 48.1137089,
+    "lng": 11.5222691
+  },
+  "sommerstr": {
+    "lat": 48.1195059,
+    "lng": 11.571579
   }
 }
