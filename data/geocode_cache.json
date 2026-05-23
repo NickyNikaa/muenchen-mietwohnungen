@@ -857,5 +857,25 @@
   "ligsalzstraße 3a": {
     "lat": 48.1378599,
     "lng": 11.542421
+  },
+  "friedenheimer straße 3": {
+    "lat": 48.1414423,
+    "lng": 11.5125383
+  },
+  "sonnentaustrasse 7": {
+    "lat": 48.1968433,
+    "lng": 11.517188
+  },
+  "deisenhofener straße": {
+    "lat": 48.1115799,
+    "lng": 11.5900817
+  },
+  "motorstraße 45": {
+    "lat": 48.1872453,
+    "lng": 11.5627169
+  },
+  "sulzweg": {
+    "lat": 48.1153277,
+    "lng": 11.6916533
   }
 }
