@@ -881,5 +881,9 @@
   "hardenbergstraße": {
     "lat": 48.1793557,
     "lng": 11.5260026
+  },
+  "schneeglöckchenstraße": {
+    "lat": 48.1996781,
+    "lng": 11.5092881
   }
 }
