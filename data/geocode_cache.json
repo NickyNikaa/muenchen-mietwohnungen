@@ -901,5 +901,9 @@
   "elisabethstraße": {
     "lat": 48.1592501,
     "lng": 11.5671266
+  },
+  "weltenburger straße": {
+    "lat": 48.1428658,
+    "lng": 11.6277231
   }
 }
