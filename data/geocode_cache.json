@@ -897,5 +897,9 @@
   "bergerwaldstraße 17": {
     "lat": 48.1123166,
     "lng": 11.6575192
+  },
+  "elisabethstraße": {
+    "lat": 48.1592501,
+    "lng": 11.5671266
   }
 }
