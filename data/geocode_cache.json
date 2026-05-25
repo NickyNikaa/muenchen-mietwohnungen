@@ -905,5 +905,17 @@
   "weltenburger straße": {
     "lat": 48.1428658,
     "lng": 11.6277231
+  },
+  "81735 ramersdorf-​perlach": {
+    "lat": 48.1099177,
+    "lng": 11.6406167
+  },
+  "81547 obergiesing": {
+    "lat": 48.1111299,
+    "lng": 11.5960835
+  },
+  "geiselgasteigstraße 88c": {
+    "lat": 48.0832774,
+    "lng": 11.5527345
   }
 }
