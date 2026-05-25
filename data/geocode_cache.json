@@ -917,5 +917,13 @@
   "geiselgasteigstraße 88c": {
     "lat": 48.0832774,
     "lng": 11.5527345
+  },
+  "riemer straße 349": {
+    "lat": 48.1407134,
+    "lng": 11.6820211
+  },
+  "meglingerstraße": {
+    "lat": 48.0930313,
+    "lng": 11.5069176
   }
 }
