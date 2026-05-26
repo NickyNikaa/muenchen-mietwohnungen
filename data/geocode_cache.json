@@ -925,5 +925,21 @@
   "meglingerstraße": {
     "lat": 48.0930313,
     "lng": 11.5069176
+  },
+  "pembaurstraße 16": {
+    "lat": 48.1427604,
+    "lng": 11.4415594
+  },
+  "reginfriedstraße": {
+    "lat": 48.1098266,
+    "lng": 11.5769137
+  },
+  "petzetstraße": {
+    "lat": 48.1641942,
+    "lng": 11.4493342
+  },
+  "johanneskirchner straße  ...": {
+    "lat": 48.1706482,
+    "lng": 11.6290231
   }
 }
