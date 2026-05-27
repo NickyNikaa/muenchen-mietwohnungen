@@ -941,5 +941,57 @@
   "johanneskirchner straße  ...": {
     "lat": 48.1706482,
     "lng": 11.6290231
+  },
+  "kurt-eisner-straße 44": {
+    "lat": 48.1029678,
+    "lng": 11.6568635
+  },
+  "lothringer straße": {
+    "lat": 48.127741,
+    "lng": 11.597314
+  },
+  "fürstenrieder straße 99": {
+    "lat": 48.1318123,
+    "lng": 11.5031459
+  },
+  "langerhansstraße 10": {
+    "lat": 48.1915325,
+    "lng": 11.4644308
+  },
+  "herzogstraße": {
+    "lat": 48.1634457,
+    "lng": 11.5645487
+  },
+  "krumbacherstr. 9a": {
+    "lat": 48.1586541,
+    "lng": 11.565998
+  },
+  "edelweissstraße 3": {
+    "lat": 48.1190532,
+    "lng": 11.5820725
+  },
+  "rathausstrasse": {
+    "lat": 48.0408057,
+    "lng": 11.5217069
+  },
+  "fortnerstrasse": {
+    "lat": 48.2217404,
+    "lng": 11.5610725
+  },
+  "viktor-scheffel-straße": {
+    "lat": 48.162013,
+    "lng": 11.5773167
+  },
+  "schellingstraße": {
+    "lat": 48.152852,
+    "lng": 11.5668418
+  },
+  "georg-reismüller-straße 46": {
+    "lat": 48.1970859,
+    "lng": 11.4602047
+  },
+  "bergerwaldstraße": {
+    "lat": 48.1132787,
+    "lng": 11.6586085
   }
 }
