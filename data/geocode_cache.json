@@ -993,5 +993,41 @@
   "bergerwaldstraße": {
     "lat": 48.1132787,
     "lng": 11.6586085
+  },
+  "81245 aubing": {
+    "lat": 48.1559713,
+    "lng": 11.4131591
+  },
+  "81827 trudering-​riem": {
+    "lat": 48.1075436,
+    "lng": 11.690405
+  },
+  "schlesierstraße 46": {
+    "lat": 48.1136323,
+    "lng": 11.605489
+  },
+  "grünwedelstraße": {
+    "lat": 48.1844068,
+    "lng": 11.4477863
+  },
+  "tisinstraße 50": {
+    "lat": 48.0195423,
+    "lng": 11.5916629
+  },
+  "germersheimerstr  38": {
+    "lat": 48.1155642,
+    "lng": 11.5997008
+  },
+  "haydnstraße": {
+    "lat": 48.1308211,
+    "lng": 11.5570067
+  },
+  "johanneskirchner straße": {
+    "lat": 48.1706482,
+    "lng": 11.6290231
+  },
+  "trivastraße": {
+    "lat": 48.1622948,
+    "lng": 11.5398305
   }
 }
