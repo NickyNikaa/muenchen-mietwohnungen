@@ -1041,5 +1041,21 @@
   "80995 feldmoching": {
     "lat": 48.2171692,
     "lng": 11.5151835
+  },
+  "grünwalder straße 99,": {
+    "lat": 48.1028489,
+    "lng": 11.5686636
+  },
+  "baldeplatz 5": {
+    "lat": 48.1233688,
+    "lng": 11.5671294
+  },
+  "schlüsselbergstraße": {
+    "lat": 48.1257921,
+    "lng": 11.6215961
+  },
+  "gollierstr": {
+    "lat": 48.1357719,
+    "lng": 11.5387536
   }
 }
