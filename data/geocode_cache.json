@@ -1065,5 +1065,25 @@
   "preziosastraße": {
     "lat": 48.1717806,
     "lng": 11.6415384
+  },
+  "80995 allach-​untermenzing": {
+    "lat": 48.1900336,
+    "lng": 11.4681053
+  },
+  "kurfürstenplatz 8": {
+    "lat": 48.1601624,
+    "lng": 11.5753741
+  },
+  "maistraße": {
+    "lat": 48.130052,
+    "lng": 11.5625409
+  },
+  "biedersteiner str.": {
+    "lat": 48.1602774,
+    "lng": 11.5922972
+  },
+  "passauerstraße 56": {
+    "lat": 48.1110595,
+    "lng": 11.533794
   }
 }
