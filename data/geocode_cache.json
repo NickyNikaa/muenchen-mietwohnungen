@@ -1093,5 +1093,37 @@
   "kurfürstenplatz": {
     "lat": 48.1600985,
     "lng": 11.5752166
+  },
+  "81735 ramersdorf": {
+    "lat": 48.1099177,
+    "lng": 11.6406167
+  },
+  "aachener straße 4": {
+    "lat": 48.1687217,
+    "lng": 11.5795605
+  },
+  "scharfreiterplatz": {
+    "lat": 48.1044057,
+    "lng": 11.5942165
+  },
+  "angela-molitoris-platz 1": {
+    "lat": 48.1513256,
+    "lng": 11.4814426
+  },
+  "implerstraße": {
+    "lat": 48.1201994,
+    "lng": 11.5484511
+  },
+  "zenettistraße": {
+    "lat": 48.1229394,
+    "lng": 11.5587732
+  },
+  "daiserstraße": {
+    "lat": 48.1202845,
+    "lng": 11.5438861
+  },
+  "thalkirchner straße 204": {
+    "lat": 48.1117574,
+    "lng": 11.5482302
   }
 }
