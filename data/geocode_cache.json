@@ -1125,5 +1125,37 @@
   "thalkirchner straße 204": {
     "lat": 48.1117574,
     "lng": 11.5482302
+  },
+  "80997 moosach": {
+    "lat": 48.1800399,
+    "lng": 11.5060222
+  },
+  "80804 schwabing-​freimann": {
+    "lat": 48.2187901,
+    "lng": 11.6236227
+  },
+  "denninger straße 212": {
+    "lat": 48.1458435,
+    "lng": 11.6391751
+  },
+  "kriemhildenstraße": {
+    "lat": 48.1518889,
+    "lng": 11.5127085
+  },
+  "spilhofstraße 60": {
+    "lat": 48.1651808,
+    "lng": 11.6370263
+  },
+  "kelheimerstraße": {
+    "lat": 48.1460409,
+    "lng": 11.532304
+  },
+  "säbenerstrasse  9": {
+    "lat": 48.1072216,
+    "lng": 11.5748076
+  },
+  "gmunder straße 11a": {
+    "lat": 48.097513,
+    "lng": 11.5310245
   }
 }
