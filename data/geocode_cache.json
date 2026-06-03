@@ -1157,5 +1157,17 @@
   "gmunder straße 11a": {
     "lat": 48.097513,
     "lng": 11.5310245
+  },
+  "kreillerstraße 00": {
+    "lat": 48.124604,
+    "lng": 11.6549345
+  },
+  "straubinger straße 1a": {
+    "lat": 48.1386853,
+    "lng": 11.5184836
+  },
+  "dietersheimer straße": {
+    "lat": 48.1790028,
+    "lng": 11.5998469
   }
 }
