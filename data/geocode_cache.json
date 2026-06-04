@@ -1189,5 +1189,9 @@
   "beblostraße 12": {
     "lat": 48.1432677,
     "lng": 11.6197005
+  },
+  "von-gravenreuth-straße": {
+    "lat": 48.1043612,
+    "lng": 11.7090424
   }
 }
