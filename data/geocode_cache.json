@@ -1173,5 +1173,21 @@
   "81735 berg-​am-​laim": {
     "lat": 48.133971,
     "lng": 11.6336
+  },
+  "boschetsrieder straße 91": {
+    "lat": 48.099456,
+    "lng": 11.5268278
+  },
+  "schönstrasse": {
+    "lat": 48.1053247,
+    "lng": 11.5628303
+  },
+  "lindwurmstraße": {
+    "lat": 48.1220671,
+    "lng": 11.5422667
+  },
+  "beblostraße 12": {
+    "lat": 48.1432677,
+    "lng": 11.6197005
   }
 }
