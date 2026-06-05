@@ -1193,5 +1193,29 @@
   "von-gravenreuth-straße": {
     "lat": 48.1043612,
     "lng": 11.7090424
+  },
+  "81735 trudering-​riem": {
+    "lat": 48.1375805,
+    "lng": 11.6887111
+  },
+  "landsberger strasse 272": {
+    "lat": 48.1431036,
+    "lng": 11.5069739
+  },
+  "graudenzer straße": {
+    "lat": 48.1472475,
+    "lng": 11.6374865
+  },
+  "kämpferstraße 20": {
+    "lat": 48.207711,
+    "lng": 11.5738515
+  },
+  "edlingerstraße x": {
+    "lat": 48.1213553,
+    "lng": 11.5747252
+  },
+  "lindwurmstraße 167a": {
+    "lat": 48.1236587,
+    "lng": 11.5477418
   }
 }
