@@ -1217,5 +1217,13 @@
   "lindwurmstraße 167a": {
     "lat": 48.1236587,
     "lng": 11.5477418
+  },
+  "habsburgerstraße": {
+    "lat": 48.1568304,
+    "lng": 11.5777809
+  },
+  "guldeinstraße": {
+    "lat": 48.1387961,
+    "lng": 11.5326979
   }
 }
