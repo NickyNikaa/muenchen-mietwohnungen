@@ -1229,5 +1229,17 @@
   "80935 feldmoching": {
     "lat": 48.1986056,
     "lng": 11.5537463
+  },
+  "fortnerstraße": {
+    "lat": 48.2217404,
+    "lng": 11.5610725
+  },
+  "konrad-celtis-straße": {
+    "lat": 48.1109632,
+    "lng": 11.5288341
+  },
+  "daiserstrasse": {
+    "lat": 48.1202845,
+    "lng": 11.5438861
   }
 }
