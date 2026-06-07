@@ -1245,5 +1245,13 @@
   "kaspar-spät-straße": {
     "lat": 48.1066795,
     "lng": 11.6061971
+  },
+  "arcisstraße": {
+    "lat": 48.1490716,
+    "lng": 11.5674463
+  },
+  "schleißheimer straße": {
+    "lat": 48.1712074,
+    "lng": 11.5646612
   }
 }
