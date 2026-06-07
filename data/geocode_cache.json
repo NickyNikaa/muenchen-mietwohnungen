@@ -1253,5 +1253,13 @@
   "schleißheimer straße": {
     "lat": 48.1712074,
     "lng": 11.5646612
+  },
+  "meistersingerstrasse": {
+    "lat": 48.1579755,
+    "lng": 11.6361593
+  },
+  "boschetsrieder straße": {
+    "lat": 48.0984902,
+    "lng": 11.5071955
   }
 }
