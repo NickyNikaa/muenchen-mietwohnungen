@@ -1273,5 +1273,21 @@
   "mettingh str 5": {
     "lat": 48.1461981,
     "lng": 11.5303171
+  },
+  "georgenschwaigstraße 24": {
+    "lat": 48.1806067,
+    "lng": 11.5706006
+  },
+  "gaisbergstrasse 12": {
+    "lat": 48.1349453,
+    "lng": 11.6088847
+  },
+  "lipowskystrasse 4": {
+    "lat": 48.1259573,
+    "lng": 11.5437323
+  },
+  "faustnerweg": {
+    "lat": 48.0757853,
+    "lng": 11.5150528
   }
 }
