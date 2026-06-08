@@ -1261,5 +1261,13 @@
   "boschetsrieder straße": {
     "lat": 48.0984902,
     "lng": 11.5071955
+  },
+  "bergmannstraße": {
+    "lat": 48.1366012,
+    "lng": 11.5374057
+  },
+  "henckystraße 5": {
+    "lat": 48.1861048,
+    "lng": 11.5343218
   }
 }
