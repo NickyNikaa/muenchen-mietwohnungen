@@ -1301,5 +1301,13 @@
   "landsberger strasse 272, ...": {
     "lat": 48.1431036,
     "lng": 11.5069739
+  },
+  "ute-strittmatter-straße 17": {
+    "lat": 48.1482045,
+    "lng": 11.4066617
+  },
+  "wemdinger straße 43": {
+    "lat": 48.1191487,
+    "lng": 11.6233866
   }
 }
