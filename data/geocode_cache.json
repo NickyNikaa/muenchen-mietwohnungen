@@ -1289,5 +1289,17 @@
   "faustnerweg": {
     "lat": 48.0757853,
     "lng": 11.5150528
+  },
+  "agnes-bernauer-straße": {
+    "lat": 48.1391083,
+    "lng": 11.5158153
+  },
+  "rosenheimer str.": {
+    "lat": 48.1149157,
+    "lng": 11.6139329
+  },
+  "landsberger strasse 272, ...": {
+    "lat": 48.1431036,
+    "lng": 11.5069739
   }
 }
