@@ -1313,5 +1313,17 @@
   "bavariastraße 9b": {
     "lat": 48.1237462,
     "lng": 11.5460485
+  },
+  "lily-braun-weg, 13": {
+    "lat": 48.1641102,
+    "lng": 11.5454788
+  },
+  "drachenseestraße 9": {
+    "lat": 48.119354,
+    "lng": 11.532169
+  },
+  "reifenstuelstraße": {
+    "lat": 48.1206442,
+    "lng": 11.5581167
   }
 }
