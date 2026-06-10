@@ -1325,5 +1325,21 @@
   "reifenstuelstraße": {
     "lat": 48.1206442,
     "lng": 11.5581167
+  },
+  "81545 untergiesing-​harlaching": {
+    "lat": 48.0962811,
+    "lng": 11.5541969
+  },
+  "gebsattelstraße 12": {
+    "lat": 48.1253445,
+    "lng": 11.5875863
+  },
+  "straubinger straße": {
+    "lat": 48.138441,
+    "lng": 11.5190624
+  },
+  "dachauer straße 184": {
+    "lat": 48.174399,
+    "lng": 11.5257456
   }
 }
