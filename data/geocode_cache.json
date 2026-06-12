@@ -1381,5 +1381,17 @@
   "oefelestraße": {
     "lat": 48.1194701,
     "lng": 11.5728692
+  },
+  "osterwaldstraße": {
+    "lat": 48.1661099,
+    "lng": 11.5997846
+  },
+  "adalbertstraße": {
+    "lat": 48.1536751,
+    "lng": 11.5734521
+  },
+  "kollwitzstraße": {
+    "lat": 48.1983062,
+    "lng": 11.5877476
   }
 }
