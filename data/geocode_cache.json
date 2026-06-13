@@ -1393,5 +1393,17 @@
   "kollwitzstraße": {
     "lat": 48.1983062,
     "lng": 11.5877476
+  },
+  "ulrich von hutten strasse": {
+    "lat": 48.0888867,
+    "lng": 11.6651692
+  },
+  "gmunder str.": {
+    "lat": 48.097347,
+    "lng": 11.5229745
+  },
+  "schmellerstraße 6": {
+    "lat": 48.1242077,
+    "lng": 11.5545505
   }
 }
