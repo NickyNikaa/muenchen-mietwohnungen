@@ -1413,5 +1413,17 @@
   "schmellerstraße": {
     "lat": 48.1241305,
     "lng": 11.5543671
+  },
+  "ganghoferstr.": {
+    "lat": 48.1262706,
+    "lng": 11.5391312
+  },
+  "fritz-berne-straße 52": {
+    "lat": 48.1448119,
+    "lng": 11.47449
+  },
+  "am mitterfeld , 22 22": {
+    "lat": 48.1390149,
+    "lng": 11.6792146
   }
 }
