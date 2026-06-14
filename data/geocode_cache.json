@@ -1433,5 +1433,9 @@
   "zielstattstraße": {
     "lat": 48.1021856,
     "lng": 11.5242967
+  },
+  "aidenbachstraße": {
+    "lat": 48.0978866,
+    "lng": 11.5251946
   }
 }
