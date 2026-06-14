@@ -1405,5 +1405,13 @@
   "schmellerstraße 6": {
     "lat": 48.1242077,
     "lng": 11.5545505
+  },
+  "münchener straße 26": {
+    "lat": 52.4882217,
+    "lng": 13.3422397
+  },
+  "schmellerstraße": {
+    "lat": 48.1241305,
+    "lng": 11.5543671
   }
 }
