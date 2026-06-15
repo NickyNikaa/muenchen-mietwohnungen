@@ -1437,5 +1437,21 @@
   "aidenbachstraße": {
     "lat": 48.0978866,
     "lng": 11.5251946
+  },
+  "prinzregentenstraße": {
+    "lat": 48.1418165,
+    "lng": 11.5946458
+  },
+  "kleinstraße": {
+    "lat": 48.0995829,
+    "lng": 11.5398305
+  },
+  "ohmstraße 14": {
+    "lat": 48.1537808,
+    "lng": 11.5853704
+  },
+  "fleischerstr 8": {
+    "lat": 48.1247144,
+    "lng": 11.5536851
   }
 }
