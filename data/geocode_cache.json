@@ -1477,5 +1477,21 @@
   "fürstenackerstrasse": {
     "lat": 48.0850103,
     "lng": 11.5168464
+  },
+  "81671 au-​haidhausen": {
+    "lat": 48.1277214,
+    "lng": 11.6055187
+  },
+  "schwanthalerstraße 154": {
+    "lat": 48.1380455,
+    "lng": 11.54417
+  },
+  "nockherstraße": {
+    "lat": 48.119582,
+    "lng": 11.5785802
+  },
+  "georgenstraße 63": {
+    "lat": 48.1561193,
+    "lng": 11.5714418
   }
 }
