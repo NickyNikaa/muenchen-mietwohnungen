@@ -1469,5 +1469,13 @@
   "felicitas-füss-straße": {
     "lat": 48.1110155,
     "lng": 11.6767059
+  },
+  "amalienstraße": {
+    "lat": 48.1486484,
+    "lng": 11.5773628
+  },
+  "fürstenackerstrasse": {
+    "lat": 48.0850103,
+    "lng": 11.5168464
   }
 }
