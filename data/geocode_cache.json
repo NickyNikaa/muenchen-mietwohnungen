@@ -1521,5 +1521,13 @@
   "pestalozzistraße": {
     "lat": 48.1291026,
     "lng": 11.5672717
+  },
+  "helene-mayer-ring": {
+    "lat": 48.1807671,
+    "lng": 11.5553004
+  },
+  "constanze-hallgarten-straße": {
+    "lat": 48.096076,
+    "lng": 11.5075398
   }
 }
