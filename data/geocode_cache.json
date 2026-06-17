@@ -1497,5 +1497,13 @@
   "einsteinstraße 121": {
     "lat": 48.1362057,
     "lng": 11.6079018
+  },
+  "landsberger straße 135a": {
+    "lat": 48.1397315,
+    "lng": 11.5304249
+  },
+  "schlotthauerstr. 1": {
+    "lat": 48.1234977,
+    "lng": 11.5755209
   }
 }
