@@ -1505,5 +1505,9 @@
   "schlotthauerstr. 1": {
     "lat": 48.1234977,
     "lng": 11.5755209
+  },
+  "berrschestraße": {
+    "lat": 48.1534082,
+    "lng": 11.4684889
   }
 }
