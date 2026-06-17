@@ -1509,5 +1509,17 @@
   "berrschestraße": {
     "lat": 48.1534082,
     "lng": 11.4684889
+  },
+  "artilleriestraße 1": {
+    "lat": 48.1561665,
+    "lng": 11.5406687
+  },
+  "münchen-feldmoching": {
+    "lat": 48.2138224,
+    "lng": 11.5412829
+  },
+  "pestalozzistraße": {
+    "lat": 48.1291026,
+    "lng": 11.5672717
   }
 }
