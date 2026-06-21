@@ -1565,5 +1565,14 @@
   "wolfratshauser str. 96c": {
     "lat": 48.0916428,
     "lng": 11.5379864
+  },
+  "xxx xxx": null,
+  "henschelstr. 21": {
+    "lat": 48.1778232,
+    "lng": 11.4049915
+  },
+  "allescherstraße": {
+    "lat": 48.0844082,
+    "lng": 11.5207823
   }
 }
