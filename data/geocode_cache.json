@@ -1578,5 +1578,17 @@
   "bodenseestr 135a": {
     "lat": 48.1440991,
     "lng": 11.4368126
+  },
+  "pirkheimerstr. 13": {
+    "lat": 48.1215854,
+    "lng": 11.535594
+  },
+  "gaisbergstraße 9": {
+    "lat": 48.1351718,
+    "lng": 11.6086293
+  },
+  "weltenburgerstraße": {
+    "lat": 48.1410252,
+    "lng": 11.6269629
   }
 }
