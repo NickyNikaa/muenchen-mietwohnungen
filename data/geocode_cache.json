@@ -1590,5 +1590,13 @@
   "weltenburgerstraße": {
     "lat": 48.1410252,
     "lng": 11.6269629
+  },
+  "ligsalzstraße 29": {
+    "lat": 48.135243,
+    "lng": 11.5429631
+  },
+  "geiselgasteigstraße": {
+    "lat": 48.0907201,
+    "lng": 11.5568746
   }
 }
