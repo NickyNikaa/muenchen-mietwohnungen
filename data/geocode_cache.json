@@ -1623,5 +1623,13 @@
   "brudermühlstraße": {
     "lat": 48.1125225,
     "lng": 11.5487222
+  },
+  "lautensackstraße": {
+    "lat": 48.1392215,
+    "lng": 11.5182008
+  },
+  "titurelstr.": {
+    "lat": 48.1602448,
+    "lng": 11.6191192
   }
 }
