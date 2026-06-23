@@ -1614,5 +1614,14 @@
   "buschingstr. 45": {
     "lat": 48.1449428,
     "lng": 11.6183215
+  },
+  "reifenstühlstr.": null,
+  "landsberger straße 291": {
+    "lat": 48.1425671,
+    "lng": 11.5042504
+  },
+  "brudermühlstraße": {
+    "lat": 48.1125225,
+    "lng": 11.5487222
   }
 }
