@@ -1602,5 +1602,9 @@
   "schleissheimerstraße 303": {
     "lat": 48.1836459,
     "lng": 11.5662424
+  },
+  "paul-heyse-straße": {
+    "lat": 48.1375531,
+    "lng": 11.5559048
   }
 }
