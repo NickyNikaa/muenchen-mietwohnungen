@@ -1715,5 +1715,13 @@
   "milbertshofener straße 57": {
     "lat": 48.1846679,
     "lng": 11.5743724
+  },
+  "rotwandstraße": {
+    "lat": 48.112814,
+    "lng": 11.5855011
+  },
+  "burgkmairstraße": {
+    "lat": 48.1304603,
+    "lng": 11.5115537
   }
 }
