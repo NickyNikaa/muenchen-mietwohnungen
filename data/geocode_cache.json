@@ -1699,5 +1699,13 @@
   "dietrichstraße": {
     "lat": 48.1691725,
     "lng": 11.5330148
+  },
+  "ungererstraße  143": {
+    "lat": 48.1755465,
+    "lng": 11.5991688
+  },
+  "landsbergerstraße  430": {
+    "lat": 48.1455438,
+    "lng": 11.4743633
   }
 }
