@@ -1707,5 +1707,13 @@
   "landsbergerstraße  430": {
     "lat": 48.1455438,
     "lng": 11.4743633
+  },
+  "florian-geyer-straße": {
+    "lat": 48.1185508,
+    "lng": 11.5036578
+  },
+  "milbertshofener straße 57": {
+    "lat": 48.1846679,
+    "lng": 11.5743724
   }
 }
