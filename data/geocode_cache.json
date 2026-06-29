@@ -1735,5 +1735,9 @@
   "kesselbergstraße": {
     "lat": 48.1131719,
     "lng": 11.582534
+  },
+  "schwanseestraße": {
+    "lat": 48.1072346,
+    "lng": 11.5962185
   }
 }
