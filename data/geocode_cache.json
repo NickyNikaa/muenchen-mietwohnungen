@@ -1723,5 +1723,13 @@
   "burgkmairstraße": {
     "lat": 48.1304603,
     "lng": 11.5115537
+  },
+  "dreimühlenstraße 27": {
+    "lat": 48.120507,
+    "lng": 11.5594481
+  },
+  "sommerstraße": {
+    "lat": 48.1195076,
+    "lng": 11.5715802
   }
 }
