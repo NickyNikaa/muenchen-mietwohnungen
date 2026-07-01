@@ -1807,5 +1807,17 @@
   "tumblingerstraße": {
     "lat": 48.127309,
     "lng": 11.5602212
+  },
+  "leopoldstraße  257": {
+    "lat": 48.1813911,
+    "lng": 11.5845315
+  },
+  "milbertshofener straße": {
+    "lat": 48.1842911,
+    "lng": 11.5842132
+  },
+  "implerstr.": {
+    "lat": 48.1201994,
+    "lng": 11.5484511
   }
 }
