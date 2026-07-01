@@ -1767,5 +1767,21 @@
   "moosacherstr.": {
     "lat": 48.1870818,
     "lng": 11.5654843
+  },
+  "sankt-martin-straße 25": {
+    "lat": 48.1166744,
+    "lng": 11.5846307
+  },
+  "werner-egk-bogen 47": {
+    "lat": 48.2062487,
+    "lng": 11.5993884
+  },
+  "hiltenspergerstraße 20": {
+    "lat": 48.1582662,
+    "lng": 11.5665424
+  },
+  "goethestr. 47": {
+    "lat": 48.1336375,
+    "lng": 11.5587414
   }
 }
