@@ -1831,5 +1831,21 @@
   "isabellastraße": {
     "lat": 48.1556328,
     "lng": 11.5701794
+  },
+  "landshuter allee  29": {
+    "lat": 48.1493949,
+    "lng": 11.5363228
+  },
+  "tegernseer landstraße 15": {
+    "lat": 48.1184842,
+    "lng": 11.5832669
+  },
+  "albert-roßhaupter-straße": {
+    "lat": 48.1151922,
+    "lng": 11.523059
+  },
+  "fürstenrieder strasse  99": {
+    "lat": 48.1318123,
+    "lng": 11.5031459
   }
 }
