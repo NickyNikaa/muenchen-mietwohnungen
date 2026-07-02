@@ -1819,5 +1819,13 @@
   "implerstr.": {
     "lat": 48.1201994,
     "lng": 11.5484511
+  },
+  "hohenzollernstraße 80796": {
+    "lat": 48.1606512,
+    "lng": 11.5715765
+  },
+  "montsalvatstraße": {
+    "lat": 48.1703457,
+    "lng": 11.5836997
   }
 }
