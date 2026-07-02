@@ -1827,5 +1827,9 @@
   "montsalvatstraße": {
     "lat": 48.1703457,
     "lng": 11.5836997
+  },
+  "isabellastraße": {
+    "lat": 48.1556328,
+    "lng": 11.5701794
   }
 }
