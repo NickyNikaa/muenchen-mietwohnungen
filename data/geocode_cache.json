@@ -1883,5 +1883,13 @@
   "rainfarnstrasse  25": {
     "lat": 48.2076432,
     "lng": 11.5517882
+  },
+  "riesenburgstraße": {
+    "lat": 48.1520205,
+    "lng": 11.4126314
+  },
+  "züricherstraße  248": {
+    "lat": 48.0909403,
+    "lng": 11.4893153
   }
 }
