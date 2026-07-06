@@ -1920,5 +1920,9 @@
     "lat": 48.1397954,
     "lng": 11.6134174
   },
-  "landshuterallee": null
+  "landshuterallee": null,
+  "burggrafenstrasse": {
+    "lat": 48.1292443,
+    "lng": 11.6110558
+  }
 }
