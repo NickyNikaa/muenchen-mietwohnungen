@@ -1924,5 +1924,13 @@
   "burggrafenstrasse": {
     "lat": 48.1292443,
     "lng": 11.6110558
+  },
+  "brucknerstraße": {
+    "lat": 48.1394265,
+    "lng": 11.6120348
+  },
+  "zaunweg": {
+    "lat": 48.1798877,
+    "lng": 11.6003529
   }
 }
