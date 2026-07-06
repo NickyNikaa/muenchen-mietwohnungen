@@ -1940,5 +1940,9 @@
   "wilhelm-hertz-straße": {
     "lat": 48.17602,
     "lng": 11.5868598
+  },
+  "pirkheimerstraße": {
+    "lat": 48.121645,
+    "lng": 11.5359386
   }
 }
