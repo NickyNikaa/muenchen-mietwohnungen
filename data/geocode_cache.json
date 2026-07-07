@@ -1944,5 +1944,9 @@
   "pirkheimerstraße": {
     "lat": 48.121645,
     "lng": 11.5359386
+  },
+  "raglovichstraße": {
+    "lat": 48.1604218,
+    "lng": 11.5403018
   }
 }
