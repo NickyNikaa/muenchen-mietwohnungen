@@ -1968,5 +1968,13 @@
   "harpprechtstraße": {
     "lat": 48.2156941,
     "lng": 11.560854
+  },
+  "stroblstraße 13": {
+    "lat": 48.1394704,
+    "lng": 11.4937136
+  },
+  "max-bill-strasse": {
+    "lat": 48.1871618,
+    "lng": 11.5927396
   }
 }
