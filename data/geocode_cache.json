@@ -2008,5 +2008,13 @@
   "dreimühlenstraße 36": {
     "lat": 48.1205449,
     "lng": 11.5591184
+  },
+  "sankt-wendel-straße": {
+    "lat": 48.0923179,
+    "lng": 11.5355522
+  },
+  "waldperlach": {
+    "lat": 48.0834909,
+    "lng": 11.6685311
   }
 }
