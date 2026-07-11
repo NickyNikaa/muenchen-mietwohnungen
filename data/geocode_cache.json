@@ -2040,5 +2040,13 @@
   "karwendelstr": {
     "lat": 48.1124479,
     "lng": 11.5370293
+  },
+  "eisenacher straße": {
+    "lat": 48.1736115,
+    "lng": 11.5831148
+  },
+  "erlbachstraße": {
+    "lat": 48.1758955,
+    "lng": 11.3919301
   }
 }
