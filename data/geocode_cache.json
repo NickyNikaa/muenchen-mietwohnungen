@@ -2048,5 +2048,9 @@
   "erlbachstraße": {
     "lat": 48.1758955,
     "lng": 11.3919301
+  },
+  "friedenheimer straße": {
+    "lat": 48.1351246,
+    "lng": 11.5108557
   }
 }
