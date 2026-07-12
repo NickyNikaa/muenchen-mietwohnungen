@@ -2068,5 +2068,13 @@
   "ramoltstraße": {
     "lat": 48.1076756,
     "lng": 11.6213211
+  },
+  "tumblingerstraße 9": {
+    "lat": 48.1271888,
+    "lng": 11.5603206
+  },
+  "augustenstraße": {
+    "lat": 48.152712,
+    "lng": 11.5652693
   }
 }
