@@ -2080,5 +2080,13 @@
   "st.-nikolaus-platz 3": {
     "lat": 48.1931495,
     "lng": 11.6158694
+  },
+  "belgradstrasse": {
+    "lat": 48.1767209,
+    "lng": 11.5725374
+  },
+  "sankt-bonifatius-straße 16": {
+    "lat": 48.1185776,
+    "lng": 11.584354
   }
 }
