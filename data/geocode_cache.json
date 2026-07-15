@@ -2128,5 +2128,13 @@
   "agnes-bernauer-straße 76a": {
     "lat": 48.139895,
     "lng": 11.5053458
+  },
+  "ferdinand-miller-platz": {
+    "lat": 48.1516503,
+    "lng": 11.5526385
+  },
+  "saportastraße": {
+    "lat": 48.1613156,
+    "lng": 11.5430506
   }
 }
