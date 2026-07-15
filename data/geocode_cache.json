@@ -2116,5 +2116,13 @@
   "augustenstraße 71": {
     "lat": 48.1501447,
     "lng": 11.5633576
+  },
+  "radolfzeller straße 7a": {
+    "lat": 48.1496095,
+    "lng": 11.4359306
+  },
+  "landwehrstraße 16": {
+    "lat": 48.1364461,
+    "lng": 11.5626751
   }
 }
