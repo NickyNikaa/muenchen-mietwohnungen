@@ -2148,5 +2148,17 @@
   "theresienhöhe": {
     "lat": 48.1324705,
     "lng": 11.5431917
+  },
+  "josef-trinkl-str.": {
+    "lat": 48.1806374,
+    "lng": 11.4820368
+  },
+  "pfeuferstraße": {
+    "lat": 48.1235411,
+    "lng": 11.5413349
+  },
+  "gelbhofstraße 10": {
+    "lat": 48.1228542,
+    "lng": 11.4767827
   }
 }
