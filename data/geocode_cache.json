@@ -2168,5 +2168,13 @@
   "wilhelm-hertz-straße 14": {
     "lat": 48.1767667,
     "lng": 11.5871972
+  },
+  "hans-thonauer-straße": {
+    "lat": 48.1344493,
+    "lng": 11.5171837
+  },
+  "safferlingstraße 5": {
+    "lat": 48.1463378,
+    "lng": 11.5334356
   }
 }
