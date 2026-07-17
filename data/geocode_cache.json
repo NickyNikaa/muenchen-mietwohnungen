@@ -2176,5 +2176,9 @@
   "safferlingstraße 5": {
     "lat": 48.1463378,
     "lng": 11.5334356
+  },
+  "passauerstraße": {
+    "lat": 48.1051617,
+    "lng": 11.5319851
   }
 }
