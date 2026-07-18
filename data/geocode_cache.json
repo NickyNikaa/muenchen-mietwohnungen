@@ -2180,5 +2180,13 @@
   "passauerstraße": {
     "lat": 48.1051617,
     "lng": 11.5319851
+  },
+  "fraunhoferstraße": {
+    "lat": 48.1294285,
+    "lng": 11.5741025
+  },
+  "aidenbachstraße 129a": {
+    "lat": 48.0859225,
+    "lng": 11.5188728
   }
 }
