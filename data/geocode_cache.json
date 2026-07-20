@@ -2220,5 +2220,13 @@
   "80939 milbertshofen -​ am hart": {
     "lat": 48.1731314,
     "lng": 11.5464786
+  },
+  "erzgießereistraße": {
+    "lat": 48.1520925,
+    "lng": 11.5550947
+  },
+  "landshuter allee 67": {
+    "lat": 48.154919,
+    "lng": 11.5368092
   }
 }
