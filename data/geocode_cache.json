@@ -2228,5 +2228,25 @@
   "landshuter allee 67": {
     "lat": 48.154919,
     "lng": 11.5368092
+  },
+  "ramoltstr. 14": {
+    "lat": 48.108614,
+    "lng": 11.6198723
+  },
+  "otkerstraße": {
+    "lat": 48.1079422,
+    "lng": 11.5773125
+  },
+  "stefan-george-ring": {
+    "lat": 48.1410012,
+    "lng": 11.6497378
+  },
+  "echelsbacher str.": {
+    "lat": 48.1165729,
+    "lng": 11.5215862
+  },
+  "johannisplatz": {
+    "lat": 48.1338875,
+    "lng": 11.5984235
   }
 }
