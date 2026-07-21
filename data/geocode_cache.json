@@ -2256,5 +2256,9 @@
   "linus-funke-weg": {
     "lat": 48.1963286,
     "lng": 11.5302692
+  },
+  "hohenzollernstr.": {
+    "lat": 48.1608402,
+    "lng": 11.5643702
   }
 }
