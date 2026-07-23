@@ -2297,5 +2297,25 @@
   "helene-mayer-ring 10": {
     "lat": 48.1810801,
     "lng": 11.5530517
+  },
+  "bayerstraße 107": {
+    "lat": 48.1388992,
+    "lng": 11.5501427
+  },
+  "meistersingerstraße 102": {
+    "lat": 48.1573896,
+    "lng": 11.6361607
+  },
+  "berg-am-laim-straße": {
+    "lat": 48.1302086,
+    "lng": 11.620574
+  },
+  "harthauser straße": {
+    "lat": 48.078299,
+    "lng": 11.5446485
+  },
+  "wilhelm-busch-straße 15": {
+    "lat": 48.0804475,
+    "lng": 11.5061962
   }
 }
