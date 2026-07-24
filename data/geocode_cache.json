@@ -2317,5 +2317,9 @@
   "wilhelm-busch-straße 15": {
     "lat": 48.0804475,
     "lng": 11.5061962
+  },
+  "elsenheimerstraße": {
+    "lat": 48.1381112,
+    "lng": 11.5212001
   }
 }
