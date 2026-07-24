@@ -2321,5 +2321,13 @@
   "elsenheimerstraße": {
     "lat": 48.1381112,
     "lng": 11.5212001
+  },
+  "schleißheimerstraße": {
+    "lat": 48.1895251,
+    "lng": 11.5656383
+  },
+  "gaißacher straße": {
+    "lat": 48.114647,
+    "lng": 11.5495038
   }
 }
