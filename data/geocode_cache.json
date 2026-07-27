@@ -2377,5 +2377,21 @@
   "rotkreuzplatz 1": {
     "lat": 48.1524792,
     "lng": 11.5337837
+  },
+  "schrenkstr": {
+    "lat": 48.138907,
+    "lng": 11.5415857
+  },
+  "schwindstr. 32": {
+    "lat": 48.1551132,
+    "lng": 11.5648652
+  },
+  "nymphenburger straße": {
+    "lat": 48.1476854,
+    "lng": 11.5581962
+  },
+  "mozartstr. 5": {
+    "lat": 48.1298238,
+    "lng": 11.5570983
   }
 }
