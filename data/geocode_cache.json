@@ -2393,5 +2393,17 @@
   "mozartstr. 5": {
     "lat": 48.1298238,
     "lng": 11.5570983
+  },
+  "rambergstraße 4": {
+    "lat": 48.1540023,
+    "lng": 11.5771994
+  },
+  "ganghoferstraße": {
+    "lat": 48.1316318,
+    "lng": 11.5395371
+  },
+  "lützelsteinerstr  18": {
+    "lat": 48.1970503,
+    "lng": 11.615622
   }
 }
