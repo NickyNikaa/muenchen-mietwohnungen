@@ -2425,5 +2425,13 @@
   "arnulfstraße  134": {
     "lat": 48.1466343,
     "lng": 11.5344009
+  },
+  "thalkirchner str.  188": {
+    "lat": 48.113648,
+    "lng": 11.54952
+  },
+  "ottobrunner str.": {
+    "lat": 48.103267,
+    "lng": 11.6253151
   }
 }
