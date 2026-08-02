@@ -2489,5 +2489,14 @@
   "hilsbacherstrasse 10": {
     "lat": 48.1978297,
     "lng": 11.6215957
+  },
+  "thereseinstrasse": null,
+  "ehrwalder straße 2": {
+    "lat": 48.1180562,
+    "lng": 11.5166738
+  },
+  "grünspechtstraße xx": {
+    "lat": 48.1723255,
+    "lng": 11.4867545
   }
 }
