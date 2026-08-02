@@ -2485,5 +2485,9 @@
   "nordendstraße 1a": {
     "lat": 48.152195,
     "lng": 11.5758415
+  },
+  "hilsbacherstrasse 10": {
+    "lat": 48.1978297,
+    "lng": 11.6215957
   }
 }
