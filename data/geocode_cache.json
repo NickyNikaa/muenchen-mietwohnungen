@@ -2498,5 +2498,9 @@
   "grünspechtstraße xx": {
     "lat": 48.1723255,
     "lng": 11.4867545
+  },
+  "demblerstraße 22": {
+    "lat": 48.1059896,
+    "lng": 11.607559
   }
 }
