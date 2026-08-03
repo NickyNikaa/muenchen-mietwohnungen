@@ -2502,5 +2502,21 @@
   "demblerstraße 22": {
     "lat": 48.1059896,
     "lng": 11.607559
+  },
+  "cannabichstraße 7": {
+    "lat": 48.1163233,
+    "lng": 11.5752117
+  },
+  "zennerstraße 8": {
+    "lat": 48.10306,
+    "lng": 11.542867
+  },
+  "buschingstraße 45": {
+    "lat": 48.1449428,
+    "lng": 11.6183215
+  },
+  "görresstraße 20a": {
+    "lat": 48.1556761,
+    "lng": 11.5648752
   }
 }
