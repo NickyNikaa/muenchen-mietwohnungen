@@ -2518,5 +2518,17 @@
   "görresstraße 20a": {
     "lat": 48.1556761,
     "lng": 11.5648752
+  },
+  "mooswiesenstraße 11c": {
+    "lat": 48.1648228,
+    "lng": 11.4411239
+  },
+  "gunta-stölzl-straße 7": {
+    "lat": 48.1797832,
+    "lng": 11.5915471
+  },
+  "plinganserstraße": {
+    "lat": 48.1125548,
+    "lng": 11.5396441
   }
 }
