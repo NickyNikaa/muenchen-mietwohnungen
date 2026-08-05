@@ -2587,5 +2587,13 @@
     "lat": 48.1298238,
     "lng": 11.5570983
   },
-  "amorrstrasse 4": null
+  "amorrstrasse 4": null,
+  "kriegerheimstraße": {
+    "lat": 48.1041774,
+    "lng": 11.4886613
+  },
+  "ringseisstraße": {
+    "lat": 48.1294928,
+    "lng": 11.5609249
+  }
 }
