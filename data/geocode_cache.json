@@ -2582,5 +2582,10 @@
   "ebereschenstraße 12": {
     "lat": 48.2001843,
     "lng": 11.5532273
-  }
+  },
+  "mozartstraße 5": {
+    "lat": 48.1298238,
+    "lng": 11.5570983
+  },
+  "amorrstrasse 4": null
 }
