@@ -2562,5 +2562,25 @@
   "pfennigweg 2": {
     "lat": 48.1249872,
     "lng": 11.6565697
+  },
+  "schleißheimer straße 220": {
+    "lat": 48.1689063,
+    "lng": 11.5652519
+  },
+  "eggernstraße 1": {
+    "lat": 48.1330647,
+    "lng": 11.5957424
+  },
+  "wemdingerstraße": {
+    "lat": 48.1193408,
+    "lng": 11.622629
+  },
+  "elektrastraße 24": {
+    "lat": 48.1516555,
+    "lng": 11.6228618
+  },
+  "ebereschenstraße 12": {
+    "lat": 48.2001843,
+    "lng": 11.5532273
   }
 }
