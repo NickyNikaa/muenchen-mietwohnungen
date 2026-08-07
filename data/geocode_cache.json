@@ -2639,5 +2639,9 @@
   "ursberger straße": {
     "lat": 48.1305373,
     "lng": 11.6444654
+  },
+  "adelgundenstraße": {
+    "lat": 48.1361712,
+    "lng": 11.586296
   }
 }
