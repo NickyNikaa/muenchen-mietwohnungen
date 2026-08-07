@@ -2611,5 +2611,17 @@
   "agricolastraße 14": {
     "lat": 48.1419227,
     "lng": 11.4923876
+  },
+  "trifelsstraße": {
+    "lat": 48.1132657,
+    "lng": 11.5980684
+  },
+  "landsberger straße  425": {
+    "lat": 48.144941,
+    "lng": 11.4785345
+  },
+  "wolfgangstraße": {
+    "lat": 48.1328542,
+    "lng": 11.6006248
   }
 }
