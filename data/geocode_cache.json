@@ -2631,5 +2631,13 @@
   "pippinger straße 113": {
     "lat": 48.1676354,
     "lng": 11.4571527
+  },
+  "marianne-brandt-straße": {
+    "lat": 48.1812438,
+    "lng": 11.5924268
+  },
+  "ursberger straße": {
+    "lat": 48.1305373,
+    "lng": 11.6444654
   }
 }
