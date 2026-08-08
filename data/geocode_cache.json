@@ -2651,5 +2651,22 @@
   "ludmillastraße 11": {
     "lat": 48.1097126,
     "lng": 11.5678247
+  },
+  "81477 thalk.obersendl.-​forsten-​fürstenr.-​solln": null,
+  "80333 altstadt-​lehel": {
+    "lat": 48.138404,
+    "lng": 11.58247
+  },
+  "fröttmaninger straße": {
+    "lat": 48.1767206,
+    "lng": 11.5989754
+  },
+  "irschenhauser str.": {
+    "lat": 48.0985783,
+    "lng": 11.5398239
+  },
+  "türkenstraße 31a": {
+    "lat": 48.1493744,
+    "lng": 11.5748948
   }
 }
