@@ -2680,5 +2680,33 @@
   "mettinghstraße 5": {
     "lat": 48.1461981,
     "lng": 11.5303171
+  },
+  "80539 altstadt-​lehel": {
+    "lat": 48.138404,
+    "lng": 11.58247
+  },
+  "westermühlstraße": {
+    "lat": 48.1275639,
+    "lng": 11.5715036
+  },
+  "buschingstr. 27": {
+    "lat": 48.1441043,
+    "lng": 11.6163693
+  },
+  "st-paul-str.": {
+    "lat": 48.1356159,
+    "lng": 11.5531728
+  },
+  "pestalozzistraße  22": {
+    "lat": 48.1304509,
+    "lng": 11.5671119
+  },
+  "behamstraße 23": {
+    "lat": 48.1404294,
+    "lng": 11.5093154
+  },
+  "drächslstrasse": {
+    "lat": 48.123721,
+    "lng": 11.5890662
   }
 }
