@@ -2716,5 +2716,13 @@
   "jutastraße": {
     "lat": 48.1537725,
     "lng": 11.5386998
+  },
+  "nymphenburgerstraße": {
+    "lat": 48.1476854,
+    "lng": 11.5581962
+  },
+  "clemensstraße  65": {
+    "lat": 48.1634204,
+    "lng": 11.5750757
   }
 }
