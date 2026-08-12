@@ -2756,5 +2756,21 @@
   "traunreuter str. 13": {
     "lat": 48.1024927,
     "lng": 11.6044439
+  },
+  "81739 ramersdorf-​perlach": {
+    "lat": 48.0888268,
+    "lng": 11.6609389
+  },
+  "großhaderner str.  18b": {
+    "lat": 48.1175461,
+    "lng": 11.4804357
+  },
+  "ackerstraße": {
+    "lat": 48.1249868,
+    "lng": 11.5870907
+  },
+  "buschingstr.": {
+    "lat": 48.1443988,
+    "lng": 11.6202528
   }
 }
