@@ -2740,5 +2740,9 @@
   "trivastraße 6": {
     "lat": 48.1616093,
     "lng": 11.5409614
+  },
+  "marlene-dietrich-straße": {
+    "lat": 48.1441712,
+    "lng": 11.5434132
   }
 }
