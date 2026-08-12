@@ -2744,5 +2744,17 @@
   "marlene-dietrich-straße": {
     "lat": 48.1441712,
     "lng": 11.5434132
+  },
+  "landsberger straße 425": {
+    "lat": 48.1449676,
+    "lng": 11.4778838
+  },
+  "zennerstraße": {
+    "lat": 48.1035594,
+    "lng": 11.5438659
+  },
+  "traunreuter str. 13": {
+    "lat": 48.1024927,
+    "lng": 11.6044439
   }
 }
