@@ -2772,5 +2772,17 @@
   "buschingstr.": {
     "lat": 48.1443988,
     "lng": 11.6202528
+  },
+  "ehrwalder straße 7": {
+    "lat": 48.1179413,
+    "lng": 11.5157267
+  },
+  "xaver-weismor-straße": {
+    "lat": 48.1317892,
+    "lng": 11.6563754
+  },
+  "arcisstraße  63": {
+    "lat": 48.1562204,
+    "lng": 11.5732657
   }
 }
