@@ -2804,5 +2804,17 @@
   "baierbrunner straße": {
     "lat": 48.0977133,
     "lng": 11.5327887
+  },
+  "clemensstraße 67": {
+    "lat": 48.1632812,
+    "lng": 11.5741316
+  },
+  "franz-fischer-straße": {
+    "lat": 48.1402057,
+    "lng": 11.6219153
+  },
+  "schlotthauerstraße": {
+    "lat": 48.1234199,
+    "lng": 11.5751778
   }
 }
