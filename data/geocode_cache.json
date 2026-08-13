@@ -2816,5 +2816,9 @@
   "schlotthauerstraße": {
     "lat": 48.1234199,
     "lng": 11.5751778
+  },
+  "ferchenseestr. 20": {
+    "lat": 48.0982728,
+    "lng": 11.5108317
   }
 }
