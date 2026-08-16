@@ -2844,5 +2844,21 @@
   "camerloherstraße": {
     "lat": 48.1336069,
     "lng": 11.4988859
+  },
+  "kratzerstr. 8": {
+    "lat": 48.1609493,
+    "lng": 11.5255237
+  },
+  "kratzerstr.": {
+    "lat": 48.1610234,
+    "lng": 11.5252887
+  },
+  "zielstattstraße 25": {
+    "lat": 48.1026809,
+    "lng": 11.5319214
+  },
+  "belgradstraße 15a": {
+    "lat": 48.1620303,
+    "lng": 11.5745825
   }
 }
