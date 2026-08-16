@@ -2860,5 +2860,13 @@
   "belgradstraße 15a": {
     "lat": 48.1620303,
     "lng": 11.5745825
+  },
+  "albanistraße": {
+    "lat": 48.1238185,
+    "lng": 11.577906
+  },
+  "stefan-george-ring 62": {
+    "lat": 48.1408037,
+    "lng": 11.6473007
   }
 }
