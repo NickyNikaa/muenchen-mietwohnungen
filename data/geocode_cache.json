@@ -2924,5 +2924,21 @@
   "hornstraße 22": {
     "lat": 48.1712126,
     "lng": 11.5619008
+  },
+  "ute-strittmatter-straße": {
+    "lat": 48.148745,
+    "lng": 11.4065935
+  },
+  "margaretenanger 3b": {
+    "lat": 48.2739779,
+    "lng": 11.5866508
+  },
+  "petuelring 112": {
+    "lat": 48.1767719,
+    "lng": 11.5672686
+  },
+  "dohlenweg": {
+    "lat": 48.2018469,
+    "lng": 11.5824922
   }
 }
