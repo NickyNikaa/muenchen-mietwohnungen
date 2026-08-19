@@ -2952,5 +2952,9 @@
   "tengstrasse 16": {
     "lat": 48.1570861,
     "lng": 11.5689151
+  },
+  "fischbachauer straße": {
+    "lat": 48.1111001,
+    "lng": 11.5879221
   }
 }
