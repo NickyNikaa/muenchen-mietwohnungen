@@ -2960,5 +2960,17 @@
   "dreimühlenstraße  14": {
     "lat": 48.1221711,
     "lng": 11.5613284
+  },
+  "heßstr. 00000": {
+    "lat": 48.1530551,
+    "lng": 11.5619768
+  },
+  "thalkirchner straße": {
+    "lat": 48.111788,
+    "lng": 11.5485898
+  },
+  "thalkirchner straße 188": {
+    "lat": 48.113648,
+    "lng": 11.54952
   }
 }
