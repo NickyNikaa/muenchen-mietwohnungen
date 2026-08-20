@@ -2972,5 +2972,17 @@
   "thalkirchner straße 188": {
     "lat": 48.113648,
     "lng": 11.54952
+  },
+  "veit-stoß-straße": {
+    "lat": 48.1412753,
+    "lng": 11.5038815
+  },
+  "laimer platz": {
+    "lat": 48.1354608,
+    "lng": 11.5019761
+  },
+  "barer straße": {
+    "lat": 48.1502459,
+    "lng": 11.5727678
   }
 }
