@@ -2996,5 +2996,21 @@
   "kraiburgerstr": {
     "lat": 48.1294158,
     "lng": 11.616577
+  },
+  "huttererstraße 10": {
+    "lat": 48.1720831,
+    "lng": 11.4114805
+  },
+  "großhaderner straße": {
+    "lat": 48.1190786,
+    "lng": 11.4805084
+  },
+  "spixstr 45": {
+    "lat": 48.1116907,
+    "lng": 11.5804048
+  },
+  "groschenweg 43": {
+    "lat": 48.1230259,
+    "lng": 11.6544925
   }
 }
