@@ -3024,5 +3024,13 @@
   "hörselbergstrasse": {
     "lat": 48.1409454,
     "lng": 11.619113
+  },
+  "hermine-von-parish-straße": {
+    "lat": 48.1502221,
+    "lng": 11.4787202
+  },
+  "lilienstrasse": {
+    "lat": 48.1303401,
+    "lng": 11.5873606
   }
 }
