@@ -3068,5 +3068,17 @@
   "thalkirchner strasse": {
     "lat": 48.1277215,
     "lng": 11.5640058
+  },
+  "burgkmairstr.": {
+    "lat": 48.1298084,
+    "lng": 11.5110859
+  },
+  "bavariaring": {
+    "lat": 48.135523,
+    "lng": 11.5514643
+  },
+  "bräutigamstraße": {
+    "lat": 48.0811309,
+    "lng": 11.5181405
   }
 }
