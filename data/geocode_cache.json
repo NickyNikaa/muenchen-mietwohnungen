@@ -3048,5 +3048,25 @@
   "herzog-wilhelm-str. 21": {
     "lat": 48.1357155,
     "lng": 11.5671565
+  },
+  "adelgundenstraße 3": {
+    "lat": 48.1351969,
+    "lng": 11.5859836
+  },
+  "georgenstrasse": {
+    "lat": 48.1548521,
+    "lng": 11.5777766
+  },
+  "rushaimerstr.": {
+    "lat": 48.1318471,
+    "lng": 11.4936958
+  },
+  "heiglhofstraße": {
+    "lat": 48.1118302,
+    "lng": 11.4778354
+  },
+  "thalkirchner strasse": {
+    "lat": 48.1277215,
+    "lng": 11.5640058
   }
 }
