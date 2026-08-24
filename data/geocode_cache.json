@@ -3084,5 +3084,21 @@
   "ganghofer strasse": {
     "lat": 48.1316318,
     "lng": 11.5395371
+  },
+  "rotwandstraße 26": {
+    "lat": 48.1127881,
+    "lng": 11.5852263
+  },
+  "rosa-bavarese-str. 16": {
+    "lat": 48.1463054,
+    "lng": 11.502119
+  },
+  "klarweinstraße 29": {
+    "lat": 48.1685065,
+    "lng": 11.4804865
+  },
+  "siegesstraße 12": {
+    "lat": 48.1595144,
+    "lng": 11.5875349
   }
 }
