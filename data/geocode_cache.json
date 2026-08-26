@@ -3148,5 +3148,13 @@
   "maria-luiko-straße 32": {
     "lat": 48.1569337,
     "lng": 11.5455662
+  },
+  "johanneskirchner str. 60": {
+    "lat": 48.1687256,
+    "lng": 11.6353408
+  },
+  "gabrielenstr. 2": {
+    "lat": 48.149739,
+    "lng": 11.538954
   }
 }
