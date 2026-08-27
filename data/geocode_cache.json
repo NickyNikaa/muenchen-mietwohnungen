@@ -3172,5 +3172,25 @@
   "amortstraße": {
     "lat": 48.1565127,
     "lng": 11.5290525
+  },
+  "denninger straße 194": {
+    "lat": 48.1462103,
+    "lng": 11.634751
+  },
+  "ganghoferstr. 86": {
+    "lat": 48.1275897,
+    "lng": 11.5382704
+  },
+  "agricolastraße": {
+    "lat": 48.1430949,
+    "lng": 11.4931255
+  },
+  "ungererstraße 19": {
+    "lat": 48.1656468,
+    "lng": 11.5886414
+  },
+  "johann-clanze-str 18": {
+    "lat": 48.1129297,
+    "lng": 11.5346174
   }
 }
