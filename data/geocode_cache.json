@@ -3196,5 +3196,17 @@
   "krüner straße": {
     "lat": 48.1186629,
     "lng": 11.5255038
+  },
+  "seidlhofstraße 11": {
+    "lat": 48.1475602,
+    "lng": 11.5193934
+  },
+  "adele-hartmann-straße": {
+    "lat": 48.1071149,
+    "lng": 11.4710866
+  },
+  "kreillerstraße": {
+    "lat": 48.1257542,
+    "lng": 11.6468525
   }
 }
