@@ -3209,5 +3209,9 @@
     "lat": 48.1257542,
     "lng": 11.6468525
   },
-  "xxx": null
+  "xxx": null,
+  "schleissheimerstraße": {
+    "lat": 48.1835205,
+    "lng": 11.5666231
+  }
 }
