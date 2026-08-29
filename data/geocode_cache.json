@@ -3213,5 +3213,9 @@
   "schleissheimerstraße": {
     "lat": 48.1835205,
     "lng": 11.5666231
+  },
+  "weihenstephanerstr. 3": {
+    "lat": 48.1305377,
+    "lng": 11.6229274
   }
 }
