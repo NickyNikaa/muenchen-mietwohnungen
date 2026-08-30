@@ -3233,5 +3233,17 @@
   "georg-hallmaier-straße 8": {
     "lat": 48.1084778,
     "lng": 11.5375046
+  },
+  "freudstraße 1": {
+    "lat": 48.2044325,
+    "lng": 11.5630504
+  },
+  "weihenstephaner straße": {
+    "lat": 48.1297829,
+    "lng": 11.622861
+  },
+  "schnorrstraße": {
+    "lat": 48.1528783,
+    "lng": 11.5729375
   }
 }
