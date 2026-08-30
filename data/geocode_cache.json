@@ -3221,5 +3221,17 @@
   "steinhauser str. 1": {
     "lat": 48.1373502,
     "lng": 11.6168702
+  },
+  "80636 maxvorstadt": {
+    "lat": 48.1490716,
+    "lng": 11.5674463
+  },
+  "silcherstraße 15": {
+    "lat": 48.185825,
+    "lng": 11.5778719
+  },
+  "georg-hallmaier-straße 8": {
+    "lat": 48.1084778,
+    "lng": 11.5375046
   }
 }
