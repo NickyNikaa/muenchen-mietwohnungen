@@ -3262,5 +3262,21 @@
   "lützelsteinerstrasse 18": {
     "lat": 48.1970503,
     "lng": 11.615622
+  },
+  "birnauer str.": {
+    "lat": 48.1749193,
+    "lng": 11.5628571
+  },
+  "weilheimer straße": {
+    "lat": 48.1155383,
+    "lng": 11.5195038
+  },
+  "bielefelder straße 9": {
+    "lat": 48.1843278,
+    "lng": 11.5025863
+  },
+  "görresstr. 44": {
+    "lat": 48.1562811,
+    "lng": 11.56094
   }
 }
