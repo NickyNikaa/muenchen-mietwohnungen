@@ -3249,5 +3249,18 @@
   "hohenzollernstraße 41": {
     "lat": 48.1599636,
     "lng": 11.5771238
+  },
+  "gustav-heinemann-ring 2": {
+    "lat": 48.0903025,
+    "lng": 11.6362258
+  },
+  "brudermühlstrasse": {
+    "lat": 48.1125225,
+    "lng": 11.5487222
+  },
+  "bogenhaus": null,
+  "lützelsteinerstrasse 18": {
+    "lat": 48.1970503,
+    "lng": 11.615622
   }
 }
