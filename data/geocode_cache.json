@@ -3294,5 +3294,17 @@
   "ohmstraße": {
     "lat": 48.1535831,
     "lng": 11.5863967
+  },
+  "martin-behaim-str.": {
+    "lat": 48.1236811,
+    "lng": 11.5373668
+  },
+  "waldeckstraße 24": {
+    "lat": 48.1147699,
+    "lng": 11.5734199
+  },
+  "waldfriedhofstraße": {
+    "lat": 48.1127387,
+    "lng": 11.5101749
   }
 }
