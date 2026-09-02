@@ -3306,5 +3306,17 @@
   "waldfriedhofstraße": {
     "lat": 48.1127387,
     "lng": 11.5101749
+  },
+  "alpspitzstr.": {
+    "lat": 48.1199451,
+    "lng": 11.5255024
+  },
+  "dollmannstraße 9": {
+    "lat": 48.120273,
+    "lng": 11.5779188
+  },
+  "heidemannstr.": {
+    "lat": 48.2003837,
+    "lng": 11.6073843
   }
 }
