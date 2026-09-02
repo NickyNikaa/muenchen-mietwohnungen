@@ -3318,5 +3318,21 @@
   "heidemannstr.": {
     "lat": 48.2003837,
     "lng": 11.6073843
+  },
+  "fürstenrieder straße": {
+    "lat": 48.1065461,
+    "lng": 11.5022723
+  },
+  "landsbergerstr. 362 362": {
+    "lat": 48.1453977,
+    "lng": 11.4727934
+  },
+  "schellenbergstraße 19": {
+    "lat": 48.1051137,
+    "lng": 11.5769347
+  },
+  "nymphenburger straße 80": {
+    "lat": 48.150098,
+    "lng": 11.5473326
   }
 }
