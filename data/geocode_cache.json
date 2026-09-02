@@ -3334,5 +3334,17 @@
   "nymphenburger straße 80": {
     "lat": 48.150098,
     "lng": 11.5473326
+  },
+  "sudetendeutschestraße": {
+    "lat": 48.1958548,
+    "lng": 11.5837404
+  },
+  "lutzstraße 5a": {
+    "lat": 48.1428657,
+    "lng": 11.5011587
+  },
+  "karl-marx-ring": {
+    "lat": 48.1056046,
+    "lng": 11.6590962
   }
 }
