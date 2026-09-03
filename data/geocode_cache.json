@@ -3350,5 +3350,10 @@
   "klenzestraße 13": {
     "lat": 48.1331629,
     "lng": 11.5786697
-  }
+  },
+  "waakirchner straße": {
+    "lat": 48.1026263,
+    "lng": 11.5368457
+  },
+  "xxxx": null
 }
