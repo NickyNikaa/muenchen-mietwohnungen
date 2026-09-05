@@ -3367,5 +3367,21 @@
   "aindorferstraße": {
     "lat": 48.1310075,
     "lng": 11.5057818
+  },
+  "straßbergerstraße": {
+    "lat": 48.1846874,
+    "lng": 11.5505008
+  },
+  "karl-marx-ring 15": {
+    "lat": 48.1098688,
+    "lng": 11.6523493
+  },
+  "hartliebstraße": {
+    "lat": 48.1602959,
+    "lng": 11.5444514
+  },
+  "riemerschmidstraße": {
+    "lat": 48.2112484,
+    "lng": 11.5511804
   }
 }
