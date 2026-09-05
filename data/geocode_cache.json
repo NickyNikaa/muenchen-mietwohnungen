@@ -3383,5 +3383,17 @@
   "riemerschmidstraße": {
     "lat": 48.2112484,
     "lng": 11.5511804
+  },
+  "milbertshofener str. 22": {
+    "lat": 48.184406,
+    "lng": 11.5696198
+  },
+  "schwanthalerhöhe": {
+    "lat": 48.1342304,
+    "lng": 11.5390339
+  },
+  "ida-pfeiffer str.": {
+    "lat": 48.1426475,
+    "lng": 11.6410011
   }
 }
