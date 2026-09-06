@@ -3411,5 +3411,18 @@
   "rümannstraße": {
     "lat": 48.1757433,
     "lng": 11.575554
-  }
+  },
+  "winterstraße 10": {
+    "lat": 48.115926,
+    "lng": 11.5713613
+  },
+  "erzgiessereistrasse  46": {
+    "lat": 48.1522858,
+    "lng": 11.5553927
+  },
+  "balanstraße 288": {
+    "lat": 48.0968767,
+    "lng": 11.6080654
+  },
+  "nähe passauerstraße": null
 }
