@@ -3424,5 +3424,13 @@
     "lat": 48.0968767,
     "lng": 11.6080654
   },
-  "nähe passauerstraße": null
+  "nähe passauerstraße": null,
+  "blutenburgstr": {
+    "lat": 48.1475097,
+    "lng": 11.5515713
+  },
+  "margit-schramm-straße 10": {
+    "lat": 48.1481226,
+    "lng": 11.5016027
+  }
 }
