@@ -3432,5 +3432,18 @@
   "margit-schramm-straße 10": {
     "lat": 48.1481226,
     "lng": 11.5016027
+  },
+  "hirsch-gereuth-straße": {
+    "lat": 48.1069819,
+    "lng": 11.5253918
+  },
+  "connollystraße": {
+    "lat": 48.1803734,
+    "lng": 11.5477603
+  },
+  "neue poststr": null,
+  "radlkoferstraße": {
+    "lat": 48.1258877,
+    "lng": 11.5427083
   }
 }
