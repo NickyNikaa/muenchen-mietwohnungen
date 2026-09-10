@@ -3477,5 +3477,9 @@
   "königswieser straße 75": {
     "lat": 48.0840119,
     "lng": 11.4813194
+  },
+  "hermann-weinhauser-straße": {
+    "lat": 48.1332693,
+    "lng": 11.6322898
   }
 }
