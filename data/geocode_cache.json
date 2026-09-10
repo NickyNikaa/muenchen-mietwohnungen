@@ -3481,5 +3481,9 @@
   "hermann-weinhauser-straße": {
     "lat": 48.1332693,
     "lng": 11.6322898
+  },
+  "bavariastraße": {
+    "lat": 48.1262768,
+    "lng": 11.5457603
   }
 }
