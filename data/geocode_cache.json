@@ -3518,5 +3518,13 @@
   "krottenkopfstraße": {
     "lat": 48.11728,
     "lng": 11.5154884
+  },
+  "niederhedernstraße": {
+    "lat": 48.1207456,
+    "lng": 11.4776136
+  },
+  "heimeranstraße 34": {
+    "lat": 48.133961,
+    "lng": 11.5403426
   }
 }
