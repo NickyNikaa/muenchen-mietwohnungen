@@ -3493,5 +3493,18 @@
   "einsteinstraße": {
     "lat": 48.1367812,
     "lng": 11.6119666
+  },
+  "haidhauserstaße": null,
+  "herzog-wilhelm-str.": {
+    "lat": 48.1386428,
+    "lng": 11.5669121
+  },
+  "clemensstraße": {
+    "lat": 48.1633736,
+    "lng": 11.5853238
+  },
+  "fallstraße": {
+    "lat": 48.1093241,
+    "lng": 11.5385523
   }
 }
