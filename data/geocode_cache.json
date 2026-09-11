@@ -3506,5 +3506,17 @@
   "fallstraße": {
     "lat": 48.1093241,
     "lng": 11.5385523
+  },
+  "ohlmüllerstraße": {
+    "lat": 48.124685,
+    "lng": 11.5805284
+  },
+  "ridlerstr": {
+    "lat": 48.1313645,
+    "lng": 11.5376957
+  },
+  "krottenkopfstraße": {
+    "lat": 48.11728,
+    "lng": 11.5154884
   }
 }
