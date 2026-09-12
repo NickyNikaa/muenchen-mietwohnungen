@@ -3534,5 +3534,14 @@
   "josef-frankl-straße 54": {
     "lat": 48.215413,
     "lng": 11.5308842
+  },
+  "bernheimerstraße": {
+    "lat": 48.1732436,
+    "lng": 11.6300191
+  },
+  "kund": null,
+  "reichenaustraße 25": {
+    "lat": 48.1489212,
+    "lng": 11.4382406
   }
 }
