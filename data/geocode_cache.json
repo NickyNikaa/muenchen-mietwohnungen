@@ -3526,5 +3526,13 @@
   "heimeranstraße 34": {
     "lat": 48.133961,
     "lng": 11.5403426
+  },
+  "posseltplatz": {
+    "lat": 48.147995,
+    "lng": 11.5329215
+  },
+  "josef-frankl-straße 54": {
+    "lat": 48.215413,
+    "lng": 11.5308842
   }
 }
