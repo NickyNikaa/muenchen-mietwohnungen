@@ -3555,5 +3555,29 @@
   "erdmannsdörferstraße": {
     "lat": 48.1662446,
     "lng": 11.4749592
+  },
+  "welserstraße 33": {
+    "lat": 48.1222778,
+    "lng": 11.5336312
+  },
+  "safferlingstraße 4": {
+    "lat": 48.1454762,
+    "lng": 11.5339152
+  },
+  "georg-hallmaier-straße": {
+    "lat": 48.1083877,
+    "lng": 11.5379497
+  },
+  "chiemgaustr.": {
+    "lat": 48.1075423,
+    "lng": 11.5991098
+  },
+  "lilienstraße 3": {
+    "lat": 48.1310069,
+    "lng": 11.5879794
+  },
+  "türkenstraße": {
+    "lat": 48.1449036,
+    "lng": 11.5725228
   }
 }
