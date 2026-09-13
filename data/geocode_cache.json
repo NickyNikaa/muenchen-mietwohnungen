@@ -3547,5 +3547,13 @@
   "zentnerstraße 33": {
     "lat": 48.1585229,
     "lng": 11.5643747
+  },
+  "seydlitzplatz": {
+    "lat": 48.1790572,
+    "lng": 11.5242735
+  },
+  "erdmannsdörferstraße": {
+    "lat": 48.1662446,
+    "lng": 11.4749592
   }
 }
