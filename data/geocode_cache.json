@@ -3603,5 +3603,21 @@
   "im wismat  7": {
     "lat": 48.1744034,
     "lng": 11.4722103
+  },
+  "klessingweg  4": {
+    "lat": 48.184433,
+    "lng": 11.4893919
+  },
+  "fritz-bauer-str.": {
+    "lat": 48.1392799,
+    "lng": 11.4209698
+  },
+  "gabelsbergerstraße": {
+    "lat": 48.1459274,
+    "lng": 11.5734134
+  },
+  "haidhauser straße": {
+    "lat": 48.1341159,
+    "lng": 11.6089096
   }
 }
