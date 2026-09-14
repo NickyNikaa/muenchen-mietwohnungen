@@ -3583,5 +3583,25 @@
   "burghausener straße": {
     "lat": 48.1463829,
     "lng": 11.5297418
+  },
+  "klenzestrasse 52a": {
+    "lat": 48.1287417,
+    "lng": 11.5709134
+  },
+  "am hartmannshofer bächl 8": {
+    "lat": 48.1827894,
+    "lng": 11.492659
+  },
+  "pognerstraße": {
+    "lat": 48.1014636,
+    "lng": 11.5465384
+  },
+  "lothstraße 80": {
+    "lat": 48.1565404,
+    "lng": 11.5582768
+  },
+  "im wismat  7": {
+    "lat": 48.1744034,
+    "lng": 11.4722103
   }
 }
