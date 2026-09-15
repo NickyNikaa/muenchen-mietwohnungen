@@ -3624,5 +3624,17 @@
     "lat": 48.1910073,
     "lng": 11.6235334
   },
-  "münchen- lerchenau west": null
+  "münchen- lerchenau west": null,
+  "welserstr.  33": {
+    "lat": 48.1223027,
+    "lng": 11.5338025
+  },
+  "thusneldastraße 3": {
+    "lat": 48.1148038,
+    "lng": 11.5676046
+  },
+  "franziskanerstr.": {
+    "lat": 48.1259037,
+    "lng": 11.5914003
+  }
 }
