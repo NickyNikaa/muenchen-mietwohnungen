@@ -3644,5 +3644,13 @@
   "nawiaskystraße 1": {
     "lat": 48.1068425,
     "lng": 11.6339181
+  },
+  "zieblandstraße": {
+    "lat": 48.1524665,
+    "lng": 11.5711681
+  },
+  "bergmannstrasse 18": {
+    "lat": 48.1380226,
+    "lng": 11.5375642
   }
 }
