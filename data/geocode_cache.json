@@ -3656,5 +3656,17 @@
   "josephsburgstrasse x": {
     "lat": 48.1265749,
     "lng": 11.6310141
+  },
+  "tegernseer landstraße": {
+    "lat": 48.113785,
+    "lng": 11.5782172
+  },
+  "burgauerstraße": {
+    "lat": 48.1457975,
+    "lng": 11.6560464
+  },
+  "sachsenkamstr.": {
+    "lat": 48.1161515,
+    "lng": 11.5259576
   }
 }
