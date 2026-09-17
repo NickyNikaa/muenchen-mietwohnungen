@@ -3668,5 +3668,13 @@
   "sachsenkamstr.": {
     "lat": 48.1161515,
     "lng": 11.5259576
+  },
+  "maria-luiko-straße 40": {
+    "lat": 48.156314,
+    "lng": 11.5450952
+  },
+  "schneemannstrasse": {
+    "lat": 48.106141,
+    "lng": 11.5302981
   }
 }
