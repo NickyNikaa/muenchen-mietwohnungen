@@ -3676,5 +3676,9 @@
   "schneemannstrasse": {
     "lat": 48.106141,
     "lng": 11.5302981
+  },
+  "prinzregentenstr": {
+    "lat": 48.1430236,
+    "lng": 11.5880243
   }
 }
