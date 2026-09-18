@@ -3688,5 +3688,9 @@
   "zeppelinstraße 63": {
     "lat": 48.1294985,
     "lng": 11.5856367
+  },
+  "walchenseeplatz": {
+    "lat": 48.112401,
+    "lng": 11.5840504
   }
 }
