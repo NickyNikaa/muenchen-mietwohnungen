@@ -3692,5 +3692,13 @@
   "walchenseeplatz": {
     "lat": 48.112401,
     "lng": 11.5840504
+  },
+  "peißenbergstraße": {
+    "lat": 48.1071589,
+    "lng": 11.5756091
+  },
+  "hamburger straße": {
+    "lat": 48.1889217,
+    "lng": 11.5638562
   }
 }
