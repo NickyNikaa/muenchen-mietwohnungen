@@ -3700,5 +3700,9 @@
   "hamburger straße": {
     "lat": 48.1889217,
     "lng": 11.5638562
+  },
+  "max-lebsche-platz": {
+    "lat": 48.1086783,
+    "lng": 11.4744521
   }
 }
