@@ -3704,5 +3704,13 @@
   "max-lebsche-platz": {
     "lat": 48.1086783,
     "lng": 11.4744521
+  },
+  "tegernseer landstraße 137": {
+    "lat": 48.1117218,
+    "lng": 11.5771132
+  },
+  "albert-roßhaupter-straße 96": {
+    "lat": 48.1161506,
+    "lng": 11.5247214
   }
 }
