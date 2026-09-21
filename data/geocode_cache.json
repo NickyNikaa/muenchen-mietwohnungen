@@ -3736,5 +3736,17 @@
   "schießstättstr. x": {
     "lat": 48.1362243,
     "lng": 11.545552
+  },
+  "pestalozzistr.  40a": {
+    "lat": 48.1291683,
+    "lng": 11.5671385
+  },
+  "vahrner straße 5": {
+    "lat": 48.0944017,
+    "lng": 11.5621055
+  },
+  "schleißheimerstr  215": {
+    "lat": 48.1728509,
+    "lng": 11.5648695
   }
 }
