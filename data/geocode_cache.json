@@ -3728,5 +3728,13 @@
   "johann-clanze-str. 53": {
     "lat": 48.1125019,
     "lng": 11.5267166
+  },
+  "dreimühlenstraße": {
+    "lat": 48.1218919,
+    "lng": 11.5610803
+  },
+  "schießstättstr. x": {
+    "lat": 48.1362243,
+    "lng": 11.545552
   }
 }
