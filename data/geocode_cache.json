@@ -3756,5 +3756,17 @@
   "maistr 1": {
     "lat": 48.1311031,
     "lng": 11.5637922
+  },
+  "amalie-nacken-str. 8": {
+    "lat": 48.1419576,
+    "lng": 11.4084753
+  },
+  "gelbhofstraße 18": {
+    "lat": 48.1227055,
+    "lng": 11.475214
+  },
+  "neufriedenheimer str. 65": {
+    "lat": 48.1149046,
+    "lng": 11.5012059
   }
 }
