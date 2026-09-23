@@ -3772,5 +3772,13 @@
   "packenreiterstraße 1a": {
     "lat": 48.1643936,
     "lng": 11.4680959
+  },
+  "schopenhauerstraße": {
+    "lat": 48.179311,
+    "lng": 11.5667744
+  },
+  "auenbruggerstraße": {
+    "lat": 48.1792431,
+    "lng": 11.4443813
   }
 }
