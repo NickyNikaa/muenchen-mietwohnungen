@@ -3780,5 +3780,9 @@
   "auenbruggerstraße": {
     "lat": 48.1792431,
     "lng": 11.4443813
+  },
+  "birnauerstraße": {
+    "lat": 48.1749193,
+    "lng": 11.5628571
   }
 }
