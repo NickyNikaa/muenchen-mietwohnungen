@@ -3784,5 +3784,13 @@
   "birnauerstraße": {
     "lat": 48.1749193,
     "lng": 11.5628571
+  },
+  "einsteinstraße 183": {
+    "lat": 48.1375111,
+    "lng": 11.6187639
+  },
+  "sankt-bonifatius-straße": {
+    "lat": 48.11891,
+    "lng": 11.5840994
   }
 }
