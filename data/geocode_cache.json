@@ -3792,5 +3792,17 @@
   "sankt-bonifatius-straße": {
     "lat": 48.11891,
     "lng": 11.5840994
+  },
+  "bertholdstraße": {
+    "lat": 48.1860631,
+    "lng": 11.5650569
+  },
+  "gollierplatz 18": {
+    "lat": 48.1366494,
+    "lng": 11.5348928
+  },
+  "gottfried-böhm-ring": {
+    "lat": 48.1085588,
+    "lng": 11.5274796
   }
 }
