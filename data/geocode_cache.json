@@ -3804,5 +3804,17 @@
   "gottfried-böhm-ring": {
     "lat": 48.1085588,
     "lng": 11.5274796
+  },
+  "untere weidenstraße 99": {
+    "lat": 48.1182125,
+    "lng": 11.5732932
+  },
+  "tattenbachstraße 12": {
+    "lat": 48.1402315,
+    "lng": 11.5902474
+  },
+  "tutzingerstraße 8": {
+    "lat": 48.1139552,
+    "lng": 11.5344732
   }
 }
