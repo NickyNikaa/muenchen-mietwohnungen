@@ -3828,5 +3828,9 @@
   "grafinger straße": {
     "lat": 48.1255503,
     "lng": 11.6068889
+  },
+  "carry-brachvogel-straße": {
+    "lat": 48.1696132,
+    "lng": 11.628112
   }
 }
