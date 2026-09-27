@@ -3832,5 +3832,13 @@
   "carry-brachvogel-straße": {
     "lat": 48.1696132,
     "lng": 11.628112
+  },
+  "fallstrasse": {
+    "lat": 48.1093241,
+    "lng": 11.5385523
+  },
+  "rümannstraße 57": {
+    "lat": 48.1766725,
+    "lng": 11.5819557
   }
 }
