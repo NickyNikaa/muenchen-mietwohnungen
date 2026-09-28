@@ -3872,5 +3872,18 @@
   "tettnanger straße": {
     "lat": 48.1513626,
     "lng": 11.4412818
+  },
+  "höglwörther straße 376c s...": null,
+  "schönstraße 106": {
+    "lat": 48.1027394,
+    "lng": 11.5606712
+  },
+  "aschenbrennerstraße 3": {
+    "lat": 48.2196066,
+    "lng": 11.559533
+  },
+  "linkstraße": {
+    "lat": 48.2163592,
+    "lng": 11.5599879
   }
 }
