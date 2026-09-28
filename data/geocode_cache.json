@@ -3856,5 +3856,21 @@
   "landsberger straße 113": {
     "lat": 48.1399024,
     "lng": 11.5327233
+  },
+  "lautererstraße": {
+    "lat": 48.0924475,
+    "lng": 11.5592338
+  },
+  "kaspar-kerll-straße 43": {
+    "lat": 48.1544802,
+    "lng": 11.4710407
+  },
+  "boris-blacher-str.": {
+    "lat": 48.2081319,
+    "lng": 11.601478
+  },
+  "tettnanger straße": {
+    "lat": 48.1513626,
+    "lng": 11.4412818
   }
 }
