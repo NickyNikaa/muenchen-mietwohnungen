@@ -3897,5 +3897,25 @@
   "kaiserstraße": {
     "lat": 48.1612865,
     "lng": 11.5773133
+  },
+  "lärchenstraße 6": {
+    "lat": 48.1310469,
+    "lng": 11.4392273
+  },
+  "landfriedstraße": {
+    "lat": 48.1051285,
+    "lng": 11.5788016
+  },
+  "untere weidenstraße  99": {
+    "lat": 48.1182125,
+    "lng": 11.5732932
+  },
+  "akademiestr": {
+    "lat": 48.1531426,
+    "lng": 11.5800343
+  },
+  "asamstrasse": {
+    "lat": 48.1246128,
+    "lng": 11.5777287
   }
 }
