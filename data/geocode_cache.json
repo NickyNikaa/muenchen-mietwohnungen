@@ -3921,5 +3921,31 @@
   "hochäckerstr.  12": {
     "lat": 48.10024,
     "lng": 11.6079557
+  },
+  "kantstraße": {
+    "lat": 48.1787542,
+    "lng": 11.5709543
+  },
+  "wotanstr.": {
+    "lat": 48.1435783,
+    "lng": 11.5033111
+  },
+  "weißtannenweg": {
+    "lat": 48.2014029,
+    "lng": 11.6100144
+  },
+  "nähe baldeplatz": null,
+  "alpenstraße 10": {
+    "lat": 48.1170262,
+    "lng": 11.5824573
+  },
+  "westendstraße .": {
+    "lat": 48.1347377,
+    "lng": 11.5211123
+  },
+  "schnorr von carlsfeldstr. 21": null,
+  "petuelring": {
+    "lat": 48.1756681,
+    "lng": 11.565901
   }
 }
