@@ -3947,5 +3947,17 @@
   "petuelring": {
     "lat": 48.1756681,
     "lng": 11.565901
+  },
+  "robert-koch-straße": {
+    "lat": 48.1400231,
+    "lng": 11.5891212
+  },
+  "adalbertstraße  44": {
+    "lat": 48.1526399,
+    "lng": 11.5776178
+  },
+  "virchowstraße 20": {
+    "lat": 48.1684395,
+    "lng": 11.5869897
   }
 }
