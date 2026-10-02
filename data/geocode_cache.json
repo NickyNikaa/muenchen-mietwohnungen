@@ -3959,5 +3959,21 @@
   "virchowstraße 20": {
     "lat": 48.1684395,
     "lng": 11.5869897
+  },
+  "landwehrstraße 64a": {
+    "lat": 48.1364796,
+    "lng": 11.5544886
+  },
+  "schleißheimer str. 257": {
+    "lat": 48.1787212,
+    "lng": 11.566783
+  },
+  "deisenhofener str. 79e": {
+    "lat": 48.1120146,
+    "lng": 11.5911927
+  },
+  "quiddestraße": {
+    "lat": 48.1081119,
+    "lng": 11.6466744
   }
 }
