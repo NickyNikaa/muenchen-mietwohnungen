@@ -3987,5 +3987,13 @@
   "pfeivestlstraße": {
     "lat": 48.1373733,
     "lng": 11.4441055
+  },
+  "angela-molitoris-platz": {
+    "lat": 48.151566,
+    "lng": 11.4810908
+  },
+  "schleißheimer str. 444": {
+    "lat": 48.2026734,
+    "lng": 11.5650081
   }
 }
