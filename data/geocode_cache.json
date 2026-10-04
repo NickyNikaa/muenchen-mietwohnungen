@@ -4007,5 +4007,13 @@
   "schleissheimer strasse  257": {
     "lat": 48.1787212,
     "lng": 11.566783
+  },
+  "heilwigstraße 19": {
+    "lat": 48.1161813,
+    "lng": 11.679725
+  },
+  "lisztstr. 20": {
+    "lat": 48.1401891,
+    "lng": 11.6139897
   }
 }
