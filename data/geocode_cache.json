@@ -3995,5 +3995,17 @@
   "schleißheimer str. 444": {
     "lat": 48.2026734,
     "lng": 11.5650081
+  },
+  "auerfeldstr": {
+    "lat": 48.1235732,
+    "lng": 11.5958511
+  },
+  "amberger straße": {
+    "lat": 48.1503249,
+    "lng": 11.6147135
+  },
+  "schleissheimer strasse  257": {
+    "lat": 48.1787212,
+    "lng": 11.566783
   }
 }
