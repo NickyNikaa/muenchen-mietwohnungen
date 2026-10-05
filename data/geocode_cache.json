@@ -4019,5 +4019,14 @@
   "leonrodplatz": {
     "lat": 48.159433,
     "lng": 11.5473564
+  },
+  "ulfilastraße": null,
+  "schönstraße": {
+    "lat": 48.1062191,
+    "lng": 11.5635998
+  },
+  "lochhamer str. 14": {
+    "lat": 48.125406,
+    "lng": 11.4442154
   }
 }
