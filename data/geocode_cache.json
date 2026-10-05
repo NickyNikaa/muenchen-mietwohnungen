@@ -4028,5 +4028,26 @@
   "lochhamer str. 14": {
     "lat": 48.125406,
     "lng": 11.4442154
+  },
+  "landsberger straße 299": {
+    "lat": 48.1428918,
+    "lng": 11.5022231
+  },
+  "danklstr.": {
+    "lat": 48.1179438,
+    "lng": 11.5468841
+  },
+  "barer straße 33": {
+    "lat": 48.1503909,
+    "lng": 11.5726223
+  },
+  "posselplatz": null,
+  "poccistrasse": {
+    "lat": 48.1254879,
+    "lng": 11.5502436
+  },
+  "georgenstraße 45a": {
+    "lat": 48.1553913,
+    "lng": 11.5742319
   }
 }
