@@ -4049,5 +4049,17 @@
   "georgenstraße 45a": {
     "lat": 48.1553913,
     "lng": 11.5742319
+  },
+  "elisabethplatz": {
+    "lat": 48.1573128,
+    "lng": 11.5744854
+  },
+  "albrechtstraße 2": {
+    "lat": 48.1514212,
+    "lng": 11.5449253
+  },
+  "helene-weber-allee 9": {
+    "lat": 48.1627503,
+    "lng": 11.5444408
   }
 }
