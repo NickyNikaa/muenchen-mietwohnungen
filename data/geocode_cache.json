@@ -4061,5 +4061,21 @@
   "helene-weber-allee 9": {
     "lat": 48.1627503,
     "lng": 11.5444408
+  },
+  "albrechtstraße": {
+    "lat": 48.1542599,
+    "lng": 11.5411959
+  },
+  "baldestraße": {
+    "lat": 48.1246778,
+    "lng": 11.5668036
+  },
+  "ina-seidel-bogen": {
+    "lat": 48.1427123,
+    "lng": 11.6445969
+  },
+  "schwanthalerstraße 72": {
+    "lat": 48.137654,
+    "lng": 11.5537079
   }
 }
