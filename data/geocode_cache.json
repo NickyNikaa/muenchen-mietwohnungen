@@ -4077,5 +4077,25 @@
   "schwanthalerstraße 72": {
     "lat": 48.137654,
     "lng": 11.5537079
+  },
+  "barer str. 54": {
+    "lat": 48.1498913,
+    "lng": 11.5726977
+  },
+  "schmalkaldenerstraße": {
+    "lat": 48.1869016,
+    "lng": 11.5803453
+  },
+  "halbigstraße": {
+    "lat": 48.1082126,
+    "lng": 11.5678453
+  },
+  "leopoldstraße": {
+    "lat": 48.182223,
+    "lng": 11.5850663
+  },
+  "ina-seidel-bogen 4": {
+    "lat": 48.1409052,
+    "lng": 11.6439991
   }
 }
