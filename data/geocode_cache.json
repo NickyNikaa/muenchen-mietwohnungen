@@ -4113,5 +4113,17 @@
   "gunta-stölzl-straße 6": {
     "lat": 48.1803953,
     "lng": 11.5917184
+  },
+  "heideckstraße": {
+    "lat": 48.1617119,
+    "lng": 11.5407496
+  },
+  "claude-lorrain-str.": {
+    "lat": 48.1168949,
+    "lng": 11.5705609
+  },
+  "barer straße 64": {
+    "lat": 48.1513279,
+    "lng": 11.5736875
   }
 }
