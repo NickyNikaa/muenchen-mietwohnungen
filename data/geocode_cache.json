@@ -4097,5 +4097,21 @@
   "ina-seidel-bogen 4": {
     "lat": 48.1409052,
     "lng": 11.6439991
+  },
+  "planegger str. xx": {
+    "lat": 48.140065,
+    "lng": 11.4561007
+  },
+  "bummstraße": {
+    "lat": 48.1727147,
+    "lng": 11.5739667
+  },
+  "lortzingstraße": {
+    "lat": 48.1504732,
+    "lng": 11.4560339
+  },
+  "gunta-stölzl-straße 6": {
+    "lat": 48.1803953,
+    "lng": 11.5917184
   }
 }
