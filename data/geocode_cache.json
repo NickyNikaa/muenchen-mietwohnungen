@@ -4133,5 +4133,13 @@
   "andechser straße": {
     "lat": 48.1159785,
     "lng": 11.5347363
+  },
+  "müllerstraße 7": {
+    "lat": 48.1318674,
+    "lng": 11.573541
+  },
+  "valpichlerstraße 76b": {
+    "lat": 48.1377967,
+    "lng": 11.5006493
   }
 }
