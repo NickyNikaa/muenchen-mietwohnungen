@@ -4169,5 +4169,13 @@
   "ludwig-braille str.": {
     "lat": 48.0969964,
     "lng": 11.5390528
+  },
+  "landshuter allee 65": {
+    "lat": 48.1547241,
+    "lng": 11.5367973
+  },
+  "elsenheimerstr. 32": {
+    "lat": 48.1378831,
+    "lng": 11.5209212
   }
 }
