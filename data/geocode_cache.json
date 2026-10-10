@@ -4157,5 +4157,17 @@
   "preziosastraße 15": {
     "lat": 48.1708957,
     "lng": 11.6402759
+  },
+  "hengelerstraße 9": {
+    "lat": 48.1708516,
+    "lng": 11.5377345
+  },
+  "toemlingerstr. 12": {
+    "lat": 48.1188801,
+    "lng": 11.499248
+  },
+  "ludwig-braille str.": {
+    "lat": 48.0969964,
+    "lng": 11.5390528
   }
 }
