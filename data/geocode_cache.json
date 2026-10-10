@@ -4141,5 +4141,21 @@
   "valpichlerstraße 76b": {
     "lat": 48.1377967,
     "lng": 11.5006493
+  },
+  "fallstraße 40b": {
+    "lat": 48.106717,
+    "lng": 11.5388376
+  },
+  "lillweg": {
+    "lat": 48.2127812,
+    "lng": 11.637157
+  },
+  "oettingenstraße": {
+    "lat": 48.1494069,
+    "lng": 11.5948075
+  },
+  "preziosastraße 15": {
+    "lat": 48.1708957,
+    "lng": 11.6402759
   }
 }
