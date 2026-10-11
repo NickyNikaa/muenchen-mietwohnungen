@@ -4177,5 +4177,9 @@
   "elsenheimerstr. 32": {
     "lat": 48.1378831,
     "lng": 11.5209212
+  },
+  "claude-lorrain-str. 23": {
+    "lat": 48.1195104,
+    "lng": 11.5699826
   }
 }
