@@ -4189,5 +4189,37 @@
   "hörselbergstr. 7": {
     "lat": 48.1407966,
     "lng": 11.6184932
+  },
+  "petergörglstraße": {
+    "lat": 48.1698612,
+    "lng": 11.48184
+  },
+  "schleißheimer strasse": {
+    "lat": 48.1887117,
+    "lng": 11.5659906
+  },
+  "tuttlinger str. 11": {
+    "lat": 48.1367546,
+    "lng": 11.5018872
+  },
+  "trivastraße 9": {
+    "lat": 48.1607936,
+    "lng": 11.5420248
+  },
+  "reichenbachstrasse 30": {
+    "lat": 48.1295934,
+    "lng": 11.575613
+  },
+  "linkstr 94": {
+    "lat": 48.2184862,
+    "lng": 11.5601816
+  },
+  "breisacher straße": {
+    "lat": 48.1308584,
+    "lng": 11.6057922
+  },
+  "saarlouiser str 9": {
+    "lat": 48.1876033,
+    "lng": 11.5018366
   }
 }
