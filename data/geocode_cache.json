@@ -4249,5 +4249,17 @@
   "theresienstr., 57": {
     "lat": 48.150862,
     "lng": 11.564867
+  },
+  "ehrenbreitsteiner straße": {
+    "lat": 48.183643,
+    "lng": 11.5289534
+  },
+  "westend - 13": {
+    "lat": 48.1384014,
+    "lng": 11.5475757
+  },
+  "klarweinstraße": {
+    "lat": 48.1683253,
+    "lng": 11.4807569
   }
 }
